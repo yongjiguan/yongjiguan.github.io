@@ -1,6 +1,6 @@
 # Welcome to Yongji Guan's Website
 
-<a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/GYJ.jpg" align="right" height="196" width="140" ></a> 
+<a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/GYJ.jpg" align="right" height="203" width="145" ></a> 
 
 ## Yongji Guan, PhD
 
@@ -16,7 +16,6 @@ Present position: Molecular Sciences Research Hub, Department of Chemistry, Impe
 * Sep 2014 – Jun 2016 Master of Science, Radio Physics, Lanzhou University
    
 * Sep 2010 – Jun 2014 Bachelor of Engineering, Communication Engineering, Lanzhou University
-  
 
 ## Research Experience
 * Oct 2019 – present	International Postdoctoral Research Fellow  
