@@ -61,14 +61,6 @@ Scholarship: The First Prize Scholarship of Lanzhou University
 Scholarship: The First Prize Scholarship of Lanzhou University
 7. Oct 2015
 Scholarship: The First Prize Scholarship of Lanzhou University
-8. Oct 2014
-Scholarship: The First Prize Scholarship of Lanzhou University
-9. Oct 2013
-Scholarship: The Second Prize Scholarship of Lanzhou University
-10. Oct 2012
-Scholarship: The Second Prize Scholarship of Lanzhou University
-11. Oct 2011
-Scholarship: The Second Prize Scholarship of Lanzhou University
 
 ## Research interest  
 ### * Nano-wetting of ionic liquids  
