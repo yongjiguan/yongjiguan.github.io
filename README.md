@@ -1,2 +1,1 @@
-# Yongji-Guan's Website
-## Where there is will, there is away!
+# This is Yongji-Guan's Website.
