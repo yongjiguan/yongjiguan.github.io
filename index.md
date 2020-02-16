@@ -47,19 +47,19 @@ School of Information Science and Engineering, Lanzhou University
 ##### [1]. Zhiyun Li, Zhinan Wang, Pengfei Cao, ***Yongji Guan***, Lin Cheng, Linshan Chen: Near infrared plasmonic optical trapping based on hybrid metal nanorod. 2016 Progress in Electromagnetic Research Symposium (PIERS); 08/**2016**, DOI:[10.1109/PIERS.2016.7734436](https://ieeexplore.ieee.org/abstract/document/7734436) 
 
 ## Awards & Grants
-1. May 2019
+* May 2019
 Scholarship: The Lanzhou University International Postdoctoral Scholarship Fund
-2. Dec 2018
+* Dec 2018
 Scholarship: Liu Bing Alumni Scholarship
-3. Oct 2018
+* Oct 2018
 Scholarship: The First Prize Scholarship of Lanzhou University
-4. Dec 2017
+* Dec 2017
 Award: The title of Merit Postgraduate of Lanzhou University
-5. Oct 2017
+* Oct 2017
 Scholarship: The First Prize Scholarship of Lanzhou University
-6. Oct 2016
+* Oct 2016
 Scholarship: The First Prize Scholarship of Lanzhou University
-7. Oct 2015
+* Oct 2015
 Scholarship: The First Prize Scholarship of Lanzhou University
 
 ## Research interest  
