@@ -27,7 +27,8 @@ School of Information Science and Engineering, Lanzhou University
  	Advisor: Prof. Tom Welton
 
 ## Projects
-* The Fundamental Research Funds for the Central Universities (No. lzujbky-2018-it62)  
+* The Fundamental Research Funds for the Central Universities (No. lzujbky-2018-it62) 
+
 * The National Key Research and Development Program of China (No. 2017YFA0403101)  
 
 ## Journal Publications
