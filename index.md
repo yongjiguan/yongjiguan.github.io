@@ -4,7 +4,8 @@ Institute of Optoelectronics and Electromagnetic Information
 School of Information Science and Engineering, Lanzhou University  
 *Email:* guanyj16@lzu.edu.cn  
 **Present Address:** Molecular Sciences Research Hub, Department of Chemistry, Imperial College London  
-*Email:* yongji.guan@imperial.ac.uk  
+*Email:* yongji.guan@imperial.ac.uk    
+
 
 Yongji Guan received B.S. and Ph.D. degrees from Lanzhou University in 2014 and 2019, respectively. He is currently doing postdoctoral research at department of chemistry in Imperial College London. His current research interest is mainly the dynamic behaviour of ionic liquids in elecric field through computational calculations.
 
