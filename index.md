@@ -1,5 +1,5 @@
 <a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/GYJ.jpg" align="right" height="203" width="145" ></a>
-# Yongji Guan, PhD
+## Yongji Guan, PhD
 Institute of Optoelectronics and Electromagnetic Information  
 School of Information Science and Engineering, Lanzhou University  
 *Email:* guanyj16@lzu.edu.cn  
