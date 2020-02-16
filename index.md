@@ -1,4 +1,4 @@
-<a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/blob/master/images/GYJ.jpg" align="right" height="203" width="145" ></a>
+<a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/GYJ.jpg" align="right" height="203" width="145" ></a>
 ## Yongji Guan, PhD
 Institute of Optoelectronics and Electromagnetic Information  
 School of Information Science and Engineering, Lanzhou University  
@@ -31,7 +31,7 @@ School of Information Science and Engineering, Lanzhou University
 * The National Key Research and Development Program of China (No. 2017YFA0403101)  
 
 ## Journal Publications
-[9]. Jinyuan Wang, ***Yongji Guan***, Xiaogang Yu, Youzhi Cao, Jiazang Chen, Yilin Wang, Bin Hu, Huanwang Jing: Photoelectrocatalytic reduction of CO<sub>2</sub> to Paraffin Using p-n Heterojunctions. 12/**2019**; 23(1):100768., DOI:[10.1016/j.isci.2019.100768](https://www.cell.com/iscience/fulltext/S2589-0042(19)30513-9)  
+###### [9]. Jinyuan Wang, ***Yongji Guan***, Xiaogang Yu, Youzhi Cao, Jiazang Chen, Yilin Wang, Bin Hu, Huanwang Jing: Photoelectrocatalytic reduction of CO<sub>2</sub> to Paraffin Using p-n Heterojunctions. 12/**2019**; 23(1):100768., DOI:[10.1016/j.isci.2019.100768](https://www.cell.com/iscience/fulltext/S2589-0042(19)30513-9)  
 [8]. Chao Du, ***Yongji Guan***, Shimin Liu, Wenpeng Ni, Junjie Pei, Wei Zhang, Xiaoping Zhang, Y. F. Deng: Highly Efficient and Non-Precious Metal for the Li-SOCl<sub>2</sub> Battery Using Nitrogen Doped Carbon Supported Cu Nanoparticles. Journal of The Electrochemical Society 03/**2019**; 166(4):A641., DOI:[10.1149/2.0701904jes](http://jes.ecsdl.org/content/166/4/A641.short?casa_token=AKpGqPMoTKAAAAAA:77jOL5w5JunQwGGTy7Nk-LMOB1_mkLZQO1Qv3iev9wBVmLHleEtI8vnzQrLW6NBZ88jzndg4IIs)  
 [7]. Fulong Yang, Jianhao Gong, E. Yang, ***Yongji Guan***, Xiaodong He, Shimin Liu, Xiaoping Zhang, Youquan Deng: Ultrabroadband metamaterial absorbers based on ionic liquids. Applied Physics A 02/**2019**; 125(2)., DOI:[10.1007/s00339-019-2443-x](https://link.springer.com/article/10.1007/s00339-019-2443-x)  
 [6]. Fulong Yang, Jiaohao Gong, E Yang, ***Yongji Guan***, Xiaodong He, Shimin Liu, Xiaoping Zhang, Y. F. Deng: Microwave-absorbing properties of room-temperature Ionic Liquids. Journal of Physics D Applied Physics 01/**2019**; 52(15)., DOI:[10.1088/1361-6463/ab016c](https://iopscience.iop.org/article/10.1088/1361-6463/ab016c/meta)  
