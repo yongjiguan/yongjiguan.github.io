@@ -44,7 +44,7 @@ School of Information Science and Engineering, Lanzhou University
 ## Conference Proceedings
 1. ***Yongji Guan***, Qunfeng Shao, Xiaoping Zhang, Youquan Deng: Flow-induced Voltage Generation by Driving Imidazolium-Based Ionic Liquids over a Graphene Nano-Channel. The 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6), Tottori, Japan; 10/2018  
 2. ***Yongji Guan***, Qunfeng Shao, Xiaoping Zhang: Probing Nano-Wettability of Hydrophilic/Hydrophobic Ionic Liquids Using Molecular Dynamics Simulation. The 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I), Dalian, China; 09/2016  
-3. Zhiyun Li, Zhinan Wang, Pengfei Cao, ***Yongji Guan***, Lin Cheng, Linshan Chen: Near infrared plasmonic optical trapping based on hybrid metal nanorod. 2016 Progress in Electromagnetic Research Symposium (PIERS); 08/2016, DOI:10.1109/PIERS.2016.7734436  
+3. Zhiyun Li, Zhinan Wang, Pengfei Cao, ***Yongji Guan***, Lin Cheng, Linshan Chen: Near infrared plasmonic optical trapping based on hybrid metal nanorod. 2016 Progress in Electromagnetic Research Symposium (PIERS); 08/2016, DOI:[10.1109/PIERS.2016.7734436](https://ieeexplore.ieee.org/abstract/document/7734436)  
 
 ## Awards & Grants
 1. May 2019
