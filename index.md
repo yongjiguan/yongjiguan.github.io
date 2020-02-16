@@ -1,5 +1,4 @@
-<a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/GYJ.jpg" align="left" height="203" width="145" ></a> 
-
+<a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/GYJ.jpg" align="left" height="203" width="145" ></a>
 # Yongji Guan, PhD
 
 Institute of Optoelectronics and Electromagnetic Information  
