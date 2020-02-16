@@ -3,4 +3,10 @@ title: Yongji Guan's Personal Website
 email: your-email@domain.com
 description: >
   Where there is a will, there is a way!
+author :
+  name : fullit
+  email : lantoniotrento@gmail.com
+  github : antoniotrento
+  twitter : lantoniotrento
+  feedburner : fullit
 header_page_refs: ['now', 'about', 'contact']
