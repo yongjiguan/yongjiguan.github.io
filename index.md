@@ -1,6 +1,6 @@
 # Welcome to Yongji Guan's Website
 
-<a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/GYJ.jpg" align="right" height="210" width="150" ></a> 
+<a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/GYJ.jpg" align="right" height="196" width="140" ></a> 
 
 ## Yongji Guan, PhD
 
