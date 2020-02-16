@@ -3,10 +3,10 @@
 <a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/GYJ.jpg" align="left" height="210" width="150" ></a>  
 # Yongji Guan, PhD  
 Institute of Optoelectronics and Electromagnetic Information, School of Information Science and Engineering, Lanzhou University  
-  Email: guanyj16@lzu.edu.cn  
-  Present position:
-  Molecular Sciences Research Hub, Department of Chemistry, Imperial College London  
-  Email: yongji.guan@imperial.ac.uk
+Email: guanyj16@lzu.edu.cn  
+Present position:
+Molecular Sciences Research Hub, Department of Chemistry, Imperial College London  
+Email: yongji.guan@imperial.ac.uk
 
 ## Education
 * Sep 2016 – Jun 2019 Doctor of Philosophy, Radio Physics, Lanzhou University
