@@ -27,8 +27,8 @@ School of Information Science and Engineering, Lanzhou University
  	Advisor: Prof. Tom Welton
 
 ## Projects
-1. The Fundamental Research Funds for the Central Universities (No. lzujbky-2018-it62)  
-2. The National Key Research and Development Program of China (No. 2017YFA0403101)  
+* The Fundamental Research Funds for the Central Universities (No. lzujbky-2018-it62)  
+* The National Key Research and Development Program of China (No. 2017YFA0403101)  
 
 ## Journal Publications
 1. Jinyuan Wang, ***Yongji Guan***, Xiaogang Yu, Youzhi Cao, Jiazang Chen, Yilin Wang, Bin Hu, Huanwang Jing: Photoelectrocatalytic reduction of CO2 to Paraffin Using p-n Heterojunctions. 12/2019; 23(1):100768., DOI:[10.1016/j.isci.2019.100768](https://www.cell.com/iscience/fulltext/S2589-0042(19)30513-9)  
