@@ -6,7 +6,7 @@
 <a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Publons.png" align="right" height="25" width="25" ></a>
 <a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Orchid-logo.png" align="right" height="25" width="25" ></a>
 </a><a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Google%20Scholar.png" align="right" height="25" width="25" ></a>
-[![](<a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Rg-icon-copie.png" align="right" height="25" width="25" ></a>)](https://www.researchgate.net)
+[[](<a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Rg-icon-copie.png" align="right" height="25" width="25" ></a>)](https://www.researchgate.net)
 
 Institute of Optoelectronics and Electromagnetic Information  
 School of Information Science and Engineering, [Lanzhou University](http://www.lzu.edu.cn)  
