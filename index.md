@@ -6,7 +6,6 @@
 <a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Publons.png" align="left" height="25" width="25" ></a>
 <a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Rg-icon-copie.png" align="left" height="25" width="25" ></a>
 <a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Twitter-logo.png" align="left" height="25" width="25" ></a>  
-
 Institute of Optoelectronics and Electromagnetic Information  
 School of Information Science and Engineering, [Lanzhou University](http://www.lzu.edu.cn)  
 *Email:* guanyj16@lzu.edu.cn  
