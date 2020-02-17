@@ -48,7 +48,7 @@ Yongji Guan received B.S. and Ph.D. degrees from Lanzhou University in 2014 and 
 
 ## Awards & Grants
 * May 2019
-Scholarship: The Lanzhou University International Postdoctoral Scholarship Fund
+Scholarship: The International Postdoctoral Scholarship of Lanzhou University
 * Dec 2018
 Scholarship: Liu Bing Alumni Scholarship
 * Oct 2018
