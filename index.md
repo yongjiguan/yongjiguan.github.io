@@ -1,7 +1,7 @@
 <a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/GYJ.jpg" align="right" height="203" width="145" ></a>
 ## Yongji Guan, PhD
-<a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Twitter-logo.png" align="right" height="25" width="25" ></a>
-<a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/LinkedIn.png" align="right" height="25" width="25" ></a>
+<a href="https://twitter.com/GuanYongji"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Twitter-logo.png" align="right" height="25" width="25" ></a>
+<a href="https://www.linkedin.com/feed/"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/LinkedIn.png" align="right" height="25" width="25" ></a>
 <a href="https://github.com/Yongji-Guan"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/GitHub.png" align="right" height="25" width="25" >
 <a href="https://publons.com/dashboard/summary/"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Publons.png" align="right" height="25" width="25" ></a>
 <a href="https://orcid.org/my-orcid"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Orchid-logo.png" align="right" height="25" width="25" ></a>
