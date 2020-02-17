@@ -1,8 +1,8 @@
 <a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/GYJ.jpg" align="right" height="203" width="145" ></a>
 ## Yongji Guan, PhD
-```
-<a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/blob/master/images/Google%20Scholar.jpg" align="right" height="203" width="145" ></a>
 
+<a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/blob/master/images/Google%20Scholar.jpg" align="right" height="203" width="145" ></a>
+```
 ```
 Institute of Optoelectronics and Electromagnetic Information  
 School of Information Science and Engineering, [Lanzhou University](http://www.lzu.edu.cn)  
