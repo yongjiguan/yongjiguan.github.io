@@ -64,11 +64,11 @@ Scholarship: The First Prize Scholarship of Lanzhou University
 
 ## Research interest  
 ### * Nano-wetting of ionic liquids  
-1. Spontaneously spreading on the solid surface    
-2. External field (electric and magnetic field) induced spreading on the solid substrate    
-3. Influence of water on the wetting of ionic liquids   
+* Spontaneously spreading on the solid surface    
+* External field (electric and magnetic field) induced spreading on the solid substrate    
+* Influence of water on the wetting of ionic liquids   
 
 ### * Flow-induced energy harvesting  
-1. Driving ionic liquids droplet over monolayer graphene    
-2. Flowing ionic liquids over graphene nano-channel    
-3. Flowing ionic liquids over SWCNTs  
+* Driving ionic liquids droplet over monolayer graphene    
+* Flowing ionic liquids over graphene nano-channel    
+* Flowing ionic liquids over SWCNTs  
