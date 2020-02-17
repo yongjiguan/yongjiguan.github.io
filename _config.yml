@@ -1,12 +1,4 @@
 theme: jekyll-theme-slate
 title: <center>Welcome to Yongji Guan's Website</center>
 description: >
-  <center><b><b>Where there is a will, there is a way!</b></b></center>
-author :
-  name : fullit
-  email : lantoniotrento@gmail.com
-  github : antoniotrento
-  twitter : lantoniotrento
-  feedburner : fullit
-email: your-email@domain.com
-header_page_refs: ['now', 'about', 'contact']
+  <center>Where there is a will, there is a way!</center>
