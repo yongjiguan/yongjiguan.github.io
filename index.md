@@ -3,8 +3,8 @@
 <a href="https://twitter.com/GuanYongji"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Twitter-logo.png" align="right" height="25" width="25" ></a>
 <a href="https://www.linkedin.com/feed/"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/LinkedIn.png" align="right" height="25" width="25" ></a>
 <a href="https://github.com/Yongji-Guan"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/GitHub.png" align="right" height="25" width="25" >
-<a href="https://publons.com/dashboard/summary/"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Publons.png" align="right" height="25" width="25" ></a>
-<a href="https://orcid.org/my-orcid"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Orchid-logo.png" align="right" height="25" width="25" ></a>
+<a href="https://publons.com/researcher/1467632/yongji-guan/"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Publons.png" align="right" height="25" width="25" ></a>
+<a href="https://orcid.org/0000-0001-9210-3530"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Orchid-logo.png" align="right" height="25" width="25" ></a>
 </a><a href="https://scholar.google.com/citations?hl=en&user=0rV6OnYAAAAJ"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Google%20Scholar.png" align="right" height="25" width="25" ></a>
 <a href="https://www.researchgate.net"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Rg-icon-copie.png" align="right" height="25" width="25" ></a> 
 
