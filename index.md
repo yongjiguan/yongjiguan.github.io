@@ -8,6 +8,9 @@
 </a><a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Google%20Scholar.png" align="right" height="25" width="25" ></a>
 <a href="url"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Rg-icon-copie.png" align="right" height="25" width="25" ></a> <area shape="circle" coords="0,0,0" href ="https://www.researchgate.net" target ="_blank" alt="Venus" />
 
+<a href="https://www.researchgate.net"><img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Rg-icon-copie.png" align="right" width="25" height="25" border="边框"></a>
+
+
 Institute of Optoelectronics and Electromagnetic Information  
 School of Information Science and Engineering, [Lanzhou University](http://www.lzu.edu.cn)  
 *Email:* guanyj16@lzu.edu.cn  
