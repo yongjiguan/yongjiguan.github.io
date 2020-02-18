@@ -1,9 +1,9 @@
 ---
-title: "Flow-induced voltage generation by moving a nano-sized ionic liquids droplet over a graphene sheet: Molecular dynamics simulation"
+title: "Near Infrared Plasmonic Optical Trapping Based on Hybrid Metal Nanorod"
 collection: publications
-permalink: /publication/2016-Enegy-Harvesting
-date: 2016-03-24
-venue: 'The Journal of Chemical Physics'
+permalink: /publication/2016-Plasmonics
+date: 2016-11-10
+venue: 'PIERS 2016 2016 Progress in Electromagnetics Research Symposium'
 paperurl: 'https://github.com/Yongji-Guan/Yongji-Guan.github.io/blob/master/files/2016-1.pdf'
 citation: 'Qunfeng Shao, Jingjing Jia, <b>Yongji Guan</b>, Xiaodong He, Xiaoping Zhang. The Journal of Chemical Physics 03/<b>2016</b>; 144(12):124703.'
 ---
