@@ -1,6 +1,6 @@
 title: "Flow-induced voltage generation by moving a nano-sized ionic liquids droplet over a graphene sheet: Molecular dynamics simulation"
 collection: publications
-permalink: /publication/enegy-harvesting
+permalink: /publication/Enegy-Harvesting-1
 excerpt: 'This paper is about the energy harvesting of ionic liquids moving on the graphene surface using molecular dynamics simulation.'
 date: 2016-03-24
 venue: 'The Journal of Chemical Physics'
