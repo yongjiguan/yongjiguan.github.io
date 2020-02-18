@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " Yongji Guan's Website "
+title                    : "<center>Yongji Guan's Website</center>"
 title_separator          : "-"
 name                     : &name "Yongji Guan"
 description              : &description "Where there is a will, there is a way!"
