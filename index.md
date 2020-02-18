@@ -19,7 +19,7 @@ Yongji Guan received B.S. and Ph.D. degrees from Lanzhou University in 2014 and 
 ## Research Experience
 * Oct 2019 – present	International Postdoctoral Research Fellow  
  	Lanzhou University, School of Information Science and Engineering  
- 	Advisor: Prof. Xiaoing Zhang  
+ 	Advisor: Prof. Xiaoping Zhang  
 				
 * Oct 2019 – present	Postdoctoral Research Fellow  
  	Imperial College London, Department of Chemistry  
