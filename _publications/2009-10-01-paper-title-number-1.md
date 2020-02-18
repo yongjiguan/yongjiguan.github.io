@@ -1,4 +1,3 @@
----
 title: "Flow-induced voltage generation by moving a nano-sized ionic liquids droplet over a graphene sheet: Molecular dynamics simulation"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
