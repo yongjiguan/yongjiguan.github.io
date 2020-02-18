@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-3-Nanowetting
 date: 2016-09-24
 venue: 'The 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I)'
-ctation: '<b>Yongii Guan</b>, Qunfeng Shao, Xiaoping Zhang. Probing nano-wettability of hydrophilic/hydrophobic ionic liquids using molecular dynamics simulation. <b>The 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I)</b>, Dalian, China, 2016.9.24-2016.9.26.'
+citation: '<b>Yongii Guan</b>, Qunfeng Shao, Xiaoping Zhang. Probing nano-wettability of hydrophilic/hydrophobic ionic liquids using molecular dynamics simulation. <b>The 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I)</b>, Dalian, China, 2016.9.24-2016.9.26.'
 ---
 
 <b>Yongii Guan</b>, Qunfeng Shao, Xiaoping Zhang. <b>The 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I)</b>, Dalian, China, 2016.9.24-2016.9.26. (Oral and Poster Presentation)

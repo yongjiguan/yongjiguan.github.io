@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-2-Plasmonics
 date: 2016-11-10
 venue: '2016 Progress in Electromagnetics Research Symposium (PIERS 2016)'
-ctation: 'Zhiyun Li, Zhinan Wang, Pengfei Cao, <b>Yongii Guan</b>, Lin Chen, Linshan Chen. Near infrared plasmonic optical trapping based on hybrid metal nanorod. <b>2016 Progress in Electromagnetic Research Symposium (PIERS 2016)</b>, 2016: 727-731.'
+citation: 'Zhiyun Li, Zhinan Wang, Pengfei Cao, <b>Yongii Guan</b>, Lin Chen, Linshan Chen. Near infrared plasmonic optical trapping based on hybrid metal nanorod. <b>2016 Progress in Electromagnetic Research Symposium (PIERS 2016)</b>, 2016: 727-731.'
 ---
 
 Zhiyun Li, Zhinan Wang, Pengfei Cao, <b>Yongii Guan</b>, Lin Chen, Linshan Chen. <b>2016 Progress in Electromagnetic Research Symposium (PIERS 2016)</b>, 2016: 727-731.
