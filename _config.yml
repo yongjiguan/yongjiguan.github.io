@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -85,7 +85,7 @@ author:
   bio              : "PhD/Postdoc, Physical Chemistry Chemical Physics, Molecular Sciences Research Hub, Department of Chemistry, Imperial College London"
   location         : "London, United Kingdom"
   employer         : "Imperial College London"
-  email            : "guanyj19@hotmail.com"
+  email            : "yongji.guan@imperial.ac.uk"
   
   researchgate     : "https://www.researchgate.net/profile/Yongji_Guan"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0rV6OnYAAAAJ"
