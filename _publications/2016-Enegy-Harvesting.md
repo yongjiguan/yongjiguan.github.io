@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-Enegy-Harvesting
 date: 2016-03-28
 venue: 'The Journal of Chemical Physics'
-citation: 'Qunfeng Shao, Jingjing Jia, <b>Yongii Guan</b>, Xiaodong He, Xiaoping Zhang. Flow-induced voltage generation by moving a nano-sized ionic liquids droplet over a graphene sheet: Molecular dynamics simulation. <b>J Chem Phys</b>, 2016, 144(12): 124703.'
+Qunfeng Shao, Jingjing Jia, <b>Yongii Guan</b>, Xiaodong He, Xiaoping Zhang. Flow-induced voltage generation by moving a nano-sized ionic liquids droplet over a graphene sheet: Molecular dynamics simulation. <b>J Chem Phys</b>, 2016, 144(12): 124703.
 ---
 [PDF](https://github.com/Yongji-Guan/Yongji-Guan.github.io/blob/master/files/2016-1.pdf)
 
