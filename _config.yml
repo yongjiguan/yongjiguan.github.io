@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yongji Guan"
-title_separator          : "------"
+title                    : "Yongji Guan/Red Dandelion"
+title_separator          : "-"
 name                     : &name "Yongji Guan"
 description              : &description "Where there is a will, there is a way!"
 url                      : https://yongji-guan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
