@@ -4,11 +4,9 @@ collection: publications
 permalink: /publication/2019-2-Battery
 date: 2019-03-01
 venue: 'J Phys D: Appl Phys'
-citation: 'Fulong Yang, Jianhao Gong, E Yang, <b>Yongii Guan</b>, Xiaodong He, Shimin Liu, Xiaoping Zhang, Youquan Deng. Microwave-absorbing properties of room-temperature ionic liquids. <b>J Phys D: Appl Phys</b>, 2019, 52(15): 155302.
 ---
 
 Fulong Yang, Jianhao Gong, E Yang, <b>Yongii Guan</b>, Xiaodong He, Shimin Liu, Xiaoping Zhang, Youquan Deng. <b>J Phys D: Appl Phys</b>, 2019, 52(15): 155302.
----
 
 [Download paper PDF here](https://github.com/Yongji-Guan/Yongji-Guan.github.io/blob/master/files/2019-2.pdf)
 

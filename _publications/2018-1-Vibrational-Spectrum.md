@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2018-1-Vibrational-Spectrum
 date: 2018-01-09
 venue: 'Acta Physico-Chimica Sinica'
-citation: 'Wenqiong Chen, <b>Yongii Guan</b>, Xiaoping Zhang, Youquan Deng. Influence of external electric field on vibrational spectrum of imidazolium-based ionic liquids probed by molecular dynamics simulation. <b>Acta Physico-Chimica Sinica</b>, 2018, 34(8): 912-919.'
 ---
 
 Wenqiong Chen, <b>Yongii Guan</b>, Xiaoping Zhang, Youquan Deng. <b>Acta Physico-Chimica Sinica</b>, 2018, 34(8): 912-919.

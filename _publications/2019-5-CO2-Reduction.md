@@ -15,5 +15,4 @@ Nowadays, photoelectrocatalytic (PEC) reduction of CO2 represents a very promisi
 
 ## Recommended citation
 Jinyuan Wang, <b>Yongji Guan</b>, Xiaogang Yu, Youzhi Cao, Jiazang Chen, Yilin Wang, Bin Hu, Huanwang Jing. Photoelectrocatalytic Reduction of CO<sub>2</sub> to Paraffin Using p-n Heterojunctions. iScience, 2019, 23 (1), 100768-100768.
-
-citation: 'Jinyuan Wang, <b>Yongji Guan</b>, Xiaogang Yu, Youzhi Cao, Jiazang Chen, Yilin Wang, Bin Hu, Huanwang Jing. Photoelectrocatalytic Reduction of CO<sub>2</sub> to Paraffin Using p-n Heterojunctions. iScience, 2019, 23 (1), 100768-100768.'
+s

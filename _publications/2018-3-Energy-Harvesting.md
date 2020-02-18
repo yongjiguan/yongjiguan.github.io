@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2018-3-Energy-Harvesting
 date: 2018-10-31
 venue: 'The 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6)'
-citation: '<b>Yongii Guan</b>, Wenqiong Chen, Jiao Zhang, Xiaoping Zhang, Youquan Deng. Flow-induced voltage generation by driving imidazolium-based ionic liquids over a graphene nano-channel. <b>The 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6)</b>, Tottori, Japan, 2018.10.31-2018.11.03.'
 ---
 
 <b>Yongii Guan</b>, Wenqiong Chen, Jiao Zhang, Xiaoping Zhang, Youquan Deng. <b>The 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6)</b>, 2018, 6(25): 11941-11950.(Oral and Poster Presentation)

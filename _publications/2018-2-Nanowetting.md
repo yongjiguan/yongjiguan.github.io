@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2018-2-Energy-Harvesting
 date: 2018-07-07
 venue: 'J Mater Chem A'
-citation: '<b>Yongii Guan</b>, Qunfeng Shao, Wenqiong Chen, Jiao Zhang, Xiaoping Zhang, Youquan Deng. Flow-induced voltage generation by driving imidazolium-based ionic liquids over a graphene nano-channel. <b>J Mater Chem A</b>, 2018, 6(25): 11941-11950.'
 ---
 
 <b>Yongii Guan</b>, Qunfeng Shao, Wenqiong Chen, Jiao Zhang, Xiaoping Zhang, Youquan Deng. <b>J Mater Chem A</b>, 2018, 6(25): 11941-11950.

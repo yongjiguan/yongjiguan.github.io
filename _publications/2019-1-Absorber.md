@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2019-1-Absorber
 date: 2019-02-01
 venue: 'Appl Phys A'
-citation: 'Fulong Yang, Jianhao Gong, E Yang, <b>Yongii Guan</b>, Xiaodong He, Shimin Liu, Xiaoping Zhang, Youquan Deng. Ultrabroadband metamaterial absorbers based on ionic liquids. <b>Appl Phys A</b>, 2019, 125(2): 149.'
 ---
 
 Fulong Yang, Jianhao Gong, E Yang, <b>Yongii Guan</b>, Xiaodong He, Shimin Liu, Xiaoping Zhang, Youquan Deng. <b>Appl Phys A</b>, 2019, 125(2): 149.

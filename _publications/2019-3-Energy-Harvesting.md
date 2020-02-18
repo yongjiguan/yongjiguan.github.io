@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2019-3-Energy-Harvesting
 date: 2019-03-28
 venue: 'J Phys Chem C'
-citation: '<b>Yongii Guan</b>, Wenqiong Chen, Jiao Zhang, Fulong Yang, Chao Du, Xiaoping Zhang, Youquan Deng. Ionic liquids filled single-walled carbon nanotubes for flow-induced energy harvesting. <b>J Phys Chem C</b>, 2019, 123(12): 6981-6988.'
 ---
 
 <b>Yongii Guan</b>, Wenqiong Chen, Jiao Zhang, Fulong Yang, Chao Du, Xiaoping Zhang, Youquan Deng. <b>J Phys Chem C</b>, 2019, 123(12): 6981-6988.

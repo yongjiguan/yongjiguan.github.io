@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2017-Nanowetting
 date: 2017-10-26
 venue: 'J Phys Chem C'
-citation: '<b>Yongii Guan</b>, Qunfeng Shao, Wenqiong Chen, Shimin Liu, Xiaoping Zhang, Youquan Deng. Dynamic three-dimensional nanowetting behavior of imidazolium-based ionic liquids probed by molecular dynamics simulation. <b>J Phys Chem C</b>, 2017, 121(42): 23716-23726.'
 ---
 
 <b>Yongii Guan</b>, Qunfeng Shao, Wenqiong Chen, Shimin Liu, Xiaoping Zhang, Youquan Deng. <b>J Phys Chem C</b>, 2017, 121(42): 23716-23726.
