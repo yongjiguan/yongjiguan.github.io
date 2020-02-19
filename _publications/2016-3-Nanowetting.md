@@ -1,5 +1,5 @@
 ---
-title: "3. Probing Nano-Wettability of Hydrophilic/Hydrophobic Ionic Liquids Using Molecular Dynamics Simulation"
+title: "Probing Nano-Wettability of Hydrophilic/Hydrophobic Ionic Liquids Using Molecular Dynamics Simulation"
 collection: publications
 permalink: /publication/2016-3-Nanowetting
 date: 2016-09-24
