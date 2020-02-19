@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yongji Guan's academic personal websites"
+title: "Welcome to Yongji Guan's academic personal homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
