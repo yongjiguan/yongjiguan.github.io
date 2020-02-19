@@ -8,6 +8,8 @@ venue: 'The Journal of Chemical Physics'
 
 Qunfeng Shao, Jingjing Jia, <b>Yongii Guan</b>, Xiaodong He, Xiaoping Zhang. <b>J Chem Phys</b>, 2016, 144(12): 124703.
 
+<p align="right">Times cited: 0</p> <a align="right" href="https://github.com/Yongji-Guan/Yongji-Guan.github.io/blob/master/files/2016-1.pdf">Download paper PDF here</a>
+
 [Download paper PDF here](https://github.com/Yongji-Guan/Yongji-Guan.github.io/blob/master/files/2016-1.pdf) <p align="right">Times cited: 0</p> 
 
 ## Abstract
