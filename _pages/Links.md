@@ -16,8 +16,8 @@ redirect_from:
 
 ## MD Softwares
 
-* [LAMMPS]()
-* [GROMACS]()
+* [LAMMPS](https://lammps.sandia.gov/)
+* [GROMACS](http://www.gromacs.org/)
 * [DL_POLY]()
 * [NAMD]()
 * [TINKER]()
