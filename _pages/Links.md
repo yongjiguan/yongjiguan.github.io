@@ -14,7 +14,7 @@ redirect_from:
 * [U.S. News & World Report (U.S. News)](https://www.usnews.com/education/best-global-universities/rankings)
 * [Shanghai Ranking (ARWU)](http://www.shanghairanking.com/)
   * _publications/
-  * _portfolio/
+    * _portfolio/
   * _posts/
   * _teaching/
   * _talks/
