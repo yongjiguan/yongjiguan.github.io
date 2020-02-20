@@ -15,8 +15,8 @@ redirect_from:
 * [Shanghai Ranking (ARWU)](http://www.shanghairanking.com/)
   * _publications/
     * _portfolio/
-      * _posts/
-        * _teaching/
+  * _posts/
+  * _teaching/
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
