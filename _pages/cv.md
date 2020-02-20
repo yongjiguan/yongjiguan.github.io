@@ -18,12 +18,12 @@ Education
 Work experience
 ======
 * Oct. 2019: International Postdoctoral Research Fellow
-  * Lanzhou University
+  * School of Information Science and Engineering, Lanzhou University
   * Duties included: Research
   * Supervisor: Professor Xiaoping Zhang
 
 * Oct. 2019: Postdoctoral Research Fellow
-  * Github University
+  * Department of Chemistry, Imperial College London
   * Duties included: Research
   * Supervisor: Professor Tom Welton
   
