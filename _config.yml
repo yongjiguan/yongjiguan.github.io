@@ -248,6 +248,32 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _cv/bio
+  - scope:
+      path: ""
+      type: cv/bio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+  # _guide
+  - scope:
+      path: ""
+      type: guide
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _links
+  - scope:
+      path: ""
+      type: links
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
 
 # Sass/SCSS
 sass:
