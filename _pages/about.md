@@ -7,15 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-## There are no shortcuts to any place worth going!
-# Life is a long journey full of challenges and obstacles but you have to determine you own destination to conquer victory!
 <p align="center">
   <img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Road.jpg" alt="Photo" style="width: 600;"/> 
 </p>
-
+There are no shortcuts to any place worth going!
+------
 路漫漫其修远兮，吾将上下而求索！
-======
+------
 
 About Me
 ======
