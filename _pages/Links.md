@@ -24,8 +24,11 @@ redirect_from:
 * [MDynaMix](http://www.fos.su.se/~sasha/mdynamix/) 
 * [Others](https://en.wikipedia.org/wiki/Comparison_of_software_for_molecular_mechanics_modeling)  
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+## Quantum Chemistry Sofrtwares
+ * [Gaussian]()
+ * [VASP]()
+ * [ORCA]()
+ * [Others](https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software)
 
 ## Markdown guide
 
