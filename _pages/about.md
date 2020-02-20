@@ -10,6 +10,7 @@ redirect_from:
 <p align="center">
   <img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Road.jpg" alt="Photo" style="width: 600;"/> 
 </p>
+
 There are no shortcuts to any place worth going!
 ------
 
