@@ -1,5 +1,5 @@
 ---
-title: "[Photoelectrocatalytic Reduction of CO<sub>2</sub> to Paraffin Using P-N Heterojunctions](https://www.cell.com/iscience/fulltext/S2589-0042(19)30513-9)"
+title: "Photoelectrocatalytic Reduction of CO<sub>2</sub> to Paraffin Using P-N Heterojunctions"
 collection: publications
 permalink: /publication/2019-5-CO2-Reduction
 date: 2019-12-12
