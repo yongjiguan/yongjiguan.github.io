@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Yongji Guan's personal website!"
+title: "Welcome to Yongji Guan's personal academic website!"
 permalink: /
 excerpt: "About me"
 author_profile: true
@@ -20,7 +20,7 @@ Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree fr
 
 For more info
 ======
-More info about Yongji Guan's academic personal website can be found in [Yongji Guan's website](https://yongji-guan.github.io). The Yongji Guan's website includes his [Publications](https://yongji-guan.github.io//publications/), [Talks](https://yongji-guan.github.io//talks/), [Teaching](https://yongji-guan.github.io//teaching/), [Portfolio](https://yongji-guan.github.io//portfolio/), [Blog Posts](https://yongji-guan.github.io//year-archive/), [CV](https://yongji-guan.github.io//cv/) and [Guide](https://yongji-guan.github.io//markdown/), which might be helpful for you to know him.
+More info about Yongji Guan's personal academic website can be found in [Yongji Guan's website](https://yongji-guan.github.io). The Yongji Guan's website includes his [Publications](https://yongji-guan.github.io//publications/), [Talks](https://yongji-guan.github.io//talks/), [Teaching](https://yongji-guan.github.io//teaching/), [Portfolio](https://yongji-guan.github.io//portfolio/), [Blog Posts](https://yongji-guan.github.io//year-archive/), [CV](https://yongji-guan.github.io//cv/) and [Guide](https://yongji-guan.github.io//markdown/), which might be helpful for you to know him.
 
 Getting started
 ======
