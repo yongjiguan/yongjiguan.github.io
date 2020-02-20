@@ -9,19 +9,20 @@ redirect_from:
 
 ## World University Rankings
 
-* [Times Higher Education (THE)](https://www.timeshighereducation.com/world-university-rankings)
 * [Quacquarelli Symonds (QS)](https://www.topuniversities.com/qs-world-university-rankings)
-* [U.S. News & World Report (U.S. News)](https://www.usnews.com/education/best-global-universities/rankings)
+* [Times Higher Education (THE)](https://www.timeshighereducation.com/world-university-rankings)
 * [Shanghai Ranking (ARWU)](http://www.shanghairanking.com/)
+* [U.S. News & World Report (U.S. News)](https://www.usnews.com/education/best-global-universities/rankings)
 
-## Tips and hints
+## MD Softwares
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* [LAMMPS]()
+* [GROMACS]()
+* [DL_POLY]()
+* [NAMD]()
+* [TINKER]()
+* [MDynaMix](https://github.com/academicpages/academicpages.github.io/commits/master) 
+* [Others](https://en.wikipedia.org/wiki/Comparison_of_software_for_molecular_mechanics_modeling)  
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
