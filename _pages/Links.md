@@ -13,14 +13,6 @@ redirect_from:
 * [Quacquarelli Symonds (QS)](https://www.topuniversities.com/qs-world-university-rankings)
 * [U.S. News & World Report (U.S. News)](https://www.usnews.com/education/best-global-universities/rankings)
 * [Shanghai Ranking (ARWU)](http://www.shanghairanking.com/)
-  * _publications/
-    * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
 
 ## Tips and hints
 
