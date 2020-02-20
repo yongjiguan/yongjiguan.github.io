@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Communication Engineering, Lanzhou University, 2014
+* M.S. in Radio Physics, Lanzhou University, 2016
+* Ph.D in Radio Physcis, Lanzhou University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2019: International Postdoctoral Research Fellow
+  * Lanzhou University
+  * Duties included: Research
+  * Supervisor: Professor Xiaoping Zhang
 
-* Fall 2015: Research Assistant
+* Oct. 2019: Postdoctoral Research Fellow
   * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: Research
+  * Supervisor: Professor Tom Welton
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Copmputational Calculations
+  * Molecular Dynamics Simulation
+  * Density Functional Theory
+* Programming Language
+  * C
+  * Fortran
+  * Python
+  * Matlab
+* Simulation Softwares
+  * DL_POLY
+  * LAMMPS
+  * Gaussian
+  * Materials Studio
 
 Publications
 ======
