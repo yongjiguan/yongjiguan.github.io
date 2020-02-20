@@ -18,10 +18,10 @@ redirect_from:
 
 * [LAMMPS](https://lammps.sandia.gov/)
 * [GROMACS](http://www.gromacs.org/)
-* [DL_POLY]()
-* [NAMD]()
-* [TINKER]()
-* [MDynaMix](https://github.com/academicpages/academicpages.github.io/commits/master) 
+* [DL_POLY](https://www.scd.stfc.ac.uk/Pages/DL_POLY.aspx)
+* [NAMD](https://www.ks.uiuc.edu/Research/namd/)
+* [TINKER](https://dasher.wustl.edu/tinker/)
+* [MDynaMix](http://www.fos.su.se/~sasha/mdynamix/) 
 * [Others](https://en.wikipedia.org/wiki/Comparison_of_software_for_molecular_mechanics_modeling)  
 
 ## Resources
