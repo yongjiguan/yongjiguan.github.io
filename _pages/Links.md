@@ -14,7 +14,7 @@ redirect_from:
 * [Shanghai Ranking (ARWU)](http://www.shanghairanking.com/)
 * [U.S. News & World Report (U.S. News)](https://www.usnews.com/education/best-global-universities/rankings)
 
-## MD Softwares
+## Molecular Dynamics Softwares
 
 * [LAMMPS](https://lammps.sandia.gov/)
 * [GROMACS](http://www.gromacs.org/)
