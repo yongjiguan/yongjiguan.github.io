@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### There are no shortcuts to any place worth going! -|- 路漫漫其修远兮，吾将上下而求索！
+### There are no shortcuts to any place worth going! ---|--- 路漫漫其修远兮，吾将上下而求索！
 
 <p align="center">
   <img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Road.jpg" alt="Photo" style="width:500;"/> 
