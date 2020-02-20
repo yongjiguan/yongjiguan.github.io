@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-There are no shortcuts to any place worth going! 
-------  
+<b>There are no shortcuts to any place worth going!</b> 
+
 路漫漫其修远兮，吾将上下而求索！
 ------
 
