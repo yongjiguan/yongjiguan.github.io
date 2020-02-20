@@ -9,8 +9,8 @@ redirect_from:
 
 ## World University Rankings
 
-* [Times Higher Education (THE)](https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#survey-answer)
-* Top navigation bar config: _data/navigation.yml
+* [Times Higher Education (THE)](https://www.timeshighereducation.com/world-university-rankings)
+* [Quacquarelli Symonds (QS)](https://www.topuniversities.com/qs-world-university-rankings)
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
   * _publications/
