@@ -27,26 +27,34 @@ redirect_from:
 * [Others](https://en.wikipedia.org/wiki/Comparison_of_software_for_molecular_mechanics_modeling)  
 
 ### Quantum Chemistry Sofrtwares
+
  * [Gaussian](https://gaussian.com)
  * [VASP](https://www.vasp.at)
  * [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)
  * [Others](https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software)
 
-### Pre/Post Processing Tools
-
-#### GUI and Analysis Software
-
- * [LAMMPS](https://lammps.sandia.gov/prepost.html)
- * [GROMACS](http://www.gromacs.org/Downloads_of_outdated_releases/Related_Software)
- * [DL_POLY](https://www.scd.stfc.ac.uk/Pages/DL_POLY-Useful-Resources.aspx)
- * []()
-#### Molecular Builders
+### Molecular Builders
 
  * [Moltemplate](http://www.moltemplate.org/)
- * [VMD TopoTools](https://sites.google.com/site/akohlmey/software/topotools)
+ * [VMD TopoTools](https://zenodo.org/record/545655)
  * [Packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml)
- * []()
+ * [Avogadro](http://avogadro.cc/)
+ * [fftool](https://github.com/agiliopadua/fftool)
+ * [Others](https://lammps.sandia.gov/prepost.html)
+ 
+### Post Processing Tools
 
+* [TRAVIS](http://www.travis-analyzer.de/)
+* [PyLAT](https://github.com/MaginnGroup/PyLAT)
+
+### GUI and Analysis Software
+
+ * [VMD](https://www.ks.uiuc.edu/Research/vmd/)
+ * [Pymol](https://pymol.org/2/)
+ * [Ovito](https://www.ovito.org/)
+ * [UCSF Chimera](http://www.cgl.ucsf.edu/chimera/)
+ * [Others](https://lammps.sandia.gov/prepost.html)
+ 
 ## Tables
 
 ### Table 1
