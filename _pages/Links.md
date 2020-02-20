@@ -47,7 +47,7 @@ redirect_from:
 * [TRAVIS](http://www.travis-analyzer.de/)
 * [PyLAT](https://github.com/MaginnGroup/PyLAT)
 
-### GUI and Analysis Software
+### Visual Software
 
  * [VMD](https://www.ks.uiuc.edu/Research/vmd/)
  * [Pymol](https://pymol.org/2/)
