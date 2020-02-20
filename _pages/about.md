@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+# Life is a long journey full of challenges and obstacles but you have to determine you own destination to conquer victory!
 <p align="center">
   <img src="https://github.com/Yongji-Guan/Yongji-Guan.github.io/raw/master/images/Road.jpg" alt="Photo" style="width: 600;"/> 
 </p>
