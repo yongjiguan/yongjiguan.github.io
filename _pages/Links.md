@@ -12,7 +12,7 @@ redirect_from:
 * [Times Higher Education (THE)](https://www.timeshighereducation.com/world-university-rankings)
 * [Quacquarelli Symonds (QS)](https://www.topuniversities.com/qs-world-university-rankings)
 * [U.S. News & World Report (U.S. News)](https://www.usnews.com/education/best-global-universities/rankings)
-* Collections of pages are .md or .html files in:
+* [ShanghaiRanking’s Academic Ranking of World Universities (ARWU)](http://www.shanghairanking.com/)
   * _publications/
   * _portfolio/
   * _posts/
