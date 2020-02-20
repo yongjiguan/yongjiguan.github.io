@@ -8,7 +8,7 @@ date: 2014-09-01
 location: "Lanzhou, China"
 ---
 
-This is my first teaching on <b>Mathematical Methods for Physicists</b> in my first year of B.S. My job duties included checking and solving students' homework.
+This is my first teaching on <b>Mathematical Methods for Physicists</b> as a teaching assistant in my first year of B.S. My job duties included checking and solving students' homework.
 
 Heading 1
 ======
