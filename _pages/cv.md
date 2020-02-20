@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Yongji Guan (关永吉)
-
 Education
 ======
 * B.S. in Communication Engineering, Lanzhou University, 2014
