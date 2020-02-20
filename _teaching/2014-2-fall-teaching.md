@@ -9,12 +9,3 @@ location: "Lanzhou, China"
 ---
 
 This is my first teaching on <b>Principle of Communication</b> as a teaching assistant in my first year of B.S. My job duties included checking and solving students' homework.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

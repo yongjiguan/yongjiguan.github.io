@@ -9,12 +9,3 @@ location: "Lanzhou, China"
 ---
 
 This is my third teaching on <b>Principles of Wireless Communications</b> as a teaching assistant in my second year of B.S. My job duties included checking and solving students' homework.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

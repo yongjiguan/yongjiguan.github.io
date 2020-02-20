@@ -9,12 +9,3 @@ location: "Lanzhou, China"
 ---
 
 This is my second teaching on <b>Principles of Optical Fiber Communications</b> as a teaching assistant as a teaching assistant in my first year of B.S. My job duties included checking and solving students' homework.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
