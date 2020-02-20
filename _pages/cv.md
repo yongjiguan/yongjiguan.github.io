@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Yongji Guan (关永吉)
-======
+## Yongji Guan (关永吉)
 
 Education
 ======
