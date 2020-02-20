@@ -36,9 +36,9 @@ redirect_from:
 
 #### GUI and Analysis Software
 
- * []()
- * []()
- * []()
+ * [LAMMPS](https://lammps.sandia.gov/prepost.html)
+ * [GROMACS](http://www.gromacs.org/Downloads_of_outdated_releases/Related_Software)
+ * [DL_POLY](https://www.scd.stfc.ac.uk/Pages/DL_POLY-Useful-Resources.aspx)
  * []()
 #### Molecular Builders
 
