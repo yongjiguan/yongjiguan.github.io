@@ -25,9 +25,9 @@ redirect_from:
 * [Others](https://en.wikipedia.org/wiki/Comparison_of_software_for_molecular_mechanics_modeling)  
 
 ## Quantum Chemistry Sofrtwares
- * [Gaussian]()
- * [VASP]()
- * [ORCA]()
+ * [Gaussian](https://gaussian.com)
+ * [VASP](https://www.vasp.at)
+ * [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)
  * [Others](https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software)
 
 ## Markdown guide
