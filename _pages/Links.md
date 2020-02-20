@@ -1,6 +1,6 @@
 ---
 permalink: /Links/
-title: "Links"
+title: "Links - Stand on the shoulders of giants"
 author_profile: true
 redirect_from: 
   - /md/
