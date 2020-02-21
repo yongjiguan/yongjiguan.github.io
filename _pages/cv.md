@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV/Bio"
+title: "CV/Bio - [Download CV PDF here]()"
 permalink: /cv/
 author_profile: true
 redirect_from:
