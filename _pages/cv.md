@@ -9,8 +9,6 @@ redirect_from:
 
 <b>[Download CV PDF here]()</b>
 
-### [Download CV PDF here]()
-
 {% include base_path %}
 
 Education
