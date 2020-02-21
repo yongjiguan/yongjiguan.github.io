@@ -6,8 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+---
 ## [Download CV PDF here]()
-------
+---
 {% include base_path %}
 
 Education
