@@ -11,9 +11,9 @@ title                    : "Yongji Guan's Website"
 title_separator          : "-"
 name                     : &name "Yongji Guan"
 description              : &description "Where there is a will, there is a way!"
-url                      : https://yongji-guan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yongjiguan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Yongji-Guan/Yongji-Guan.github.io"
+repository               : "yongjiguan/yongjiguan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
