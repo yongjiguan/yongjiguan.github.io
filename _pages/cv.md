@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<b>[Download CV PDF here]()</b>
+<b>[Download CV PDF here](https://github.com/Yongji-Guan/Yongji-Guan.github.io/blob/master/files/Curriculum%20Vitae.pdf)</b>
 
 {% include base_path %}
 
