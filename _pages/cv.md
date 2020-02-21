@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<b>[Download CV PDF here](https://Yongji-Guan.github.io/files/Curriculum%20Vitae.pdf)</b>
+<b>[Download CV PDF here](https://yongjiguan.github.io/files/Curriculum%20Vitae.pdf)</b>
 
 {% include base_path %}
 
@@ -64,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently severed as a regular reviewer for highly selective journals, such as Nano Energy, The Journal of Physical Chemistry C, Chinese Physics B and Journal of Molecular Liquids, etc.
