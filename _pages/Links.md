@@ -46,6 +46,7 @@ redirect_from:
 
 * [TRAVIS](http://www.travis-analyzer.de/)
 * [PyLAT](https://github.com/MaginnGroup/PyLAT)
+* [Multiwfn](http://sobereva.com/multiwfn/)
 
 ### Visual Software
 
