@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Markdown"
+title: "Contact - Communication Promote Human Development and Economic Well-Being"
 author_profile: true
 redirect_from: 
   - /md/
