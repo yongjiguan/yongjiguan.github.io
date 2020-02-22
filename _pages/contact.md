@@ -20,8 +20,11 @@ Lanzhou, Gansu, China, 730000<br />
 Mobile: +86-18809463920<br />
 E-mail: guanyj16@lzu.edu.cn<br />
 ===================================================================
+</address>
 
 ## Present Position: Postdoc
+
+<address>
 ===================================================================
 Molecular Sciences Research Hub,<br /> 
 Department of Chemistry, Imperial College London,<br />
@@ -30,9 +33,3 @@ Mobile: +44-7579904711<br />
 E-mail: yongji.guan@imperial.ac.uk<br />
 ===================================================================
 </address>
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
