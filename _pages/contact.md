@@ -7,11 +7,11 @@ redirect_from:
   - /contact.html
 ---
 
-## Address
+## Address 1
 
 <address>
 
-Yongji Guan, PhD
+### Yongji Guan, PhD
 ==============================================================
 Institute of Optoelectronics and Electromagnetic Information,<br /> 
 School of Information Science and Engineering, Lanzhou University,<br /> 
@@ -22,9 +22,10 @@ E-mail: guanyj16@lzu.edu.cn<br />
 ==============================================================
 </address>
 
-## Present Position: Postdoc
+## Address 2
 
 <address>
+### Yongji Guan, Postdoc
 ==============================================================
 Molecular Sciences Research Hub,<br /> 
 Department of Chemistry, Imperial College London,<br />
