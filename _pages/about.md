@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Yongji Guan's personal academic website!"
-permalink: /
+permalink: /about/
 excerpt: "About me"
 author_profile: true
 redirect_from: 
