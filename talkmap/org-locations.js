@@ -18,15 +18,5 @@ var addressPoints = [
     "Los Angeles, CA",
     34.0543942,
     -118.2439408
-  ]
-  [
-    "BeiJing, CHINA",
-    39.9047254,
-    116.4072155
-  ]
-  [
-    "NanWanYuan, CHINA",
-    36.2130151,
-    105.2306638
-  ]  
+  ] 
 ];
