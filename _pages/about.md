@@ -23,11 +23,11 @@ Academic news
   * 2019.10.03 
       * I start my postdoctoral research in Prof. [Welton's group](https://www.imperial.ac.uk/people/t.welton) at molecular science research hub, department of chemistry, Imperial College London. 
   * 2019.04.08 
-      * I obtained the International Teacher Postdoctoral Scholarship Fund of Lanzhou University.
+      * I obtain the International Teacher Postdoctoral Scholarship Fund of Lanzhou University.
   * 2018.10.31 
-      * I took part in the the 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6) in Tottori, Japan, and gave oral and poster prentation.
+      * I take part in the the 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6) in Tottori, Japan, and gave oral and poster prentation.
   * 2016.09.24
-      * I attented the 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I) in Dalian, China, and gave oral and poster prentation.
+      * I attent the 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I) in Dalian, China, and gave oral and poster prentation.
 
 For more info
 ======
