@@ -28,10 +28,18 @@ Academic news
       * I obtain <b>the International Teacher Postdoctoral Scholarship Fund of Lanzhou University</b> in School of Information Science and Engineering, Lanzhou University, China.
   * 2018.10.31 
       * I take part in <b>the 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6)</b> and give oral and poster prentation in Tottori, Japan.
+  * 2018.01.05
+      * The third Journal paper <b>Influence of External Electric Field on Vibrational Spectrum of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation</b> is accepted by <b>Acta Physico-Chimica Sinica</b>.
+  * 2017.09.21
+      * The second Journal paper <b>Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation</b> is accepted by <b>J Phys Chem C</b>.	 
  * 2017.06.08 
       * I attend <b>the 2017-Lammps Molecular Dynamics Simulation Summer Application Technology Conference</b> in conference center of Beijing Institute of Applied Physics and Computational Mathematics, Beijing, China.
+  * 2016.11.10
+      * The first Conference paper <b>Near infrared plasmonic optical trapping based on hybrid metal nanorod</b> is added to <b>IEEE Xplore</b>.	  
   * 2016.09.24
       * I attent <b>the 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I)</b> and give oral and poster prentation in Dalian, China.
+  * 2016.03.09
+      * The first Journal paper <b>Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation</b> is accepted by <b>The Journal of Chemical Physics</b>.	  
 
 For more info
 ======
