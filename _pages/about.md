@@ -25,7 +25,7 @@ Academic news
   * 2019.05.18 
       * I complet my PhD dissertation defense and then receive my PhD in School of Information Science and Engineering, Lanzhou University, China.
   * 2019.04.08 
-      * I obtain the International Teacher Postdoctoral Scholarship Fund of Lanzhou University in School of Information Science and Engineering, Lanzhou University, China.
+      * I obtain <b>the International Teacher Postdoctoral Scholarship Fund of Lanzhou University</b> in School of Information Science and Engineering, Lanzhou University, China.
   * 2018.10.31 
       * I take part in the the 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6) and gave oral and poster prentation in Tottori, Japan.
  * 2017.06.08 
