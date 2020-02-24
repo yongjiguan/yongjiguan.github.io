@@ -28,6 +28,8 @@ Academic news
       * I obtain the International Teacher Postdoctoral Scholarship Fund of Lanzhou University.
   * 2018.10.31 
       * I take part in the the 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6) in Tottori, Japan, and gave oral and poster prentation.
+ * 2017.06.08 
+      * I attend the 2017-lammps molecular dynamics simulation summer application technology conference in conference center of Beijing Institute of Applied Physics and Computational Mathematics, Beijing.
   * 2016.09.24
       * I attent the 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I) in Dalian, China, and gave oral and poster prentation.
 
