@@ -22,6 +22,8 @@ Academic news
 ======
   * 2019.10.03 
       * I start my postdoctoral research in Prof. [Welton's group](https://www.imperial.ac.uk/people/t.welton) at molecular science research hub, department of chemistry, Imperial College London. 
+  * 2019.05.18 
+      * I complet my PhD dissertation defense in School of Information Science and Engineering, Lanzhou University, and then receive my PhD.
   * 2019.04.08 
       * I obtain the International Teacher Postdoctoral Scholarship Fund of Lanzhou University.
   * 2018.10.31 
