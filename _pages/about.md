@@ -20,14 +20,14 @@ Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree fr
 
 Academic news
 ======
-* 2019.10.03 
- * I start my postdoctoral research in Prof. Welton's group at molecular science research hub, department of chemistry, Imperial College London.
+* 2019.10.03  
+  * I start my postdoctoral research in Prof. [Welton's group](https://www.imperial.ac.uk/people/t.welton) at molecular science research hub, department of chemistry, Imperial College London.
 * 2019.04.08 
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+  * I obtained the International Teacher Postdoctoral Scholarship Fund of Lanzhou University.
+* 2018.10.31 
+  * I took part in the the 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6) in Tottori, Japan, and gave oral and poster prentation.
+* 2016.09.24
+  * I attented the 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I) in Dalian, China, and gave oral and poster prentation.
 
 For more info
 ======
