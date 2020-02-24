@@ -20,6 +20,8 @@ Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree fr
 
 Academic news
 ======
+  * 2019.12.09
+      * The 9th Journal paper <b>Photoelectrocatalytic Reduction of CO<sub>2</sub> to Paraffin Using P-N Heterojunctions</b> is accepted by <b>iScience</b>.
   * 2019.10.03 
       * I start my postdoctoral research in Prof. [Welton's group](https://www.imperial.ac.uk/people/t.welton) at molecular science research hub in department of chemistry, Imperial College London, UK. 
   * 2019.05.18 
@@ -27,9 +29,13 @@ Academic news
   * 2019.04.08 
       * I obtain <b>the International Teacher Postdoctoral Scholarship Fund of Lanzhou University</b> in School of Information Science and Engineering, Lanzhou University, China.
   * 2019.03.01
-      * The 6th Journal paper <b>Highly Efficient and Non-Precious Metal for the Li-SOCl<sub>2</sub> Battery Using Nitrogen Doped Carbon Supported Cu Nanoparticles </b> is accepted by <b> J Electrochem Soc</b>.
+      * The 8th Journal paper <b>Highly Efficient and Non-Precious Metal for the Li-SOCl<sub>2</sub> Battery Using Nitrogen Doped Carbon Supported Cu Nanoparticles</b> is accepted by <b>J Electrochem Soc</b>.
   * 2019.01.24
-      * The 5th Journal paper <b>Ultrabroadband metamaterial absorbers based on ionic liquids</b> is accepted by <b>Appl Phys A</b>.
+      * The 7th Journal paper <b>Ultrabroadband metamaterial absorbers based on ionic liquids</b> is accepted by <b>Appl Phys A</b>.
+  * 2019.01.23
+      * The 6th Journal paper <b>Microwave-Absorbing Properties of Room-Temperature Ionic Liquids</b> is accepted by <b>J Phys Chem C</b>.
+  * 2019.01.04
+      * The 5th Journal paper <b>Ionic Liquid Filled Single-Walled Carbon Nanotubes for Flow-Induced Energy Harvesting</b> is accepted by <b>J Phys Chem C</b>.
   * 2018.10.31 
       * I take part in <b>the 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6)</b> and give oral and poster prentation in Tottori, Japan.
   * 2018.05.24
