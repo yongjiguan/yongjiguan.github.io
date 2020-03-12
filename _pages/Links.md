@@ -58,15 +58,15 @@ redirect_from:
 
 ## Ionic Liquids Group
 
-* [The Fayer Group](https://web.stanford.edu/group/fayer/)
-* [The Hunt Group](http://www.huntresearchgroup.org.uk/)
-* [The Schatz Group](https://sites.northwestern.edu/schatz/)
-* [The Margulis Group](https://chem.uiowa.edu/the-margulis-group)
-* [The Ludwig Group](https://www.ludwig.chemie.uni-rostock.de)
-* [The Yethiraj Group](https://yethiraj.chem.wisc.edu)
-* [The Padua Group](http://perso.ens-lyon.fr/agilio.padua/)
-* [The Schroder Group](https://www.mdy.univie.ac.at/people/schroeder/schroeder.html)
-
-
-* [The Yamaguchi Group](http://www-gcom.mech.eng.osaka-u.ac.jp/index-e.html)
+* [The Fayer Group - Stanford University](https://web.stanford.edu/group/fayer/)
+* [The Hunt Group - Imperial College London](http://www.huntresearchgroup.org.uk/)
+* [The Schatz Group - Northwestern University](https://sites.northwestern.edu/schatz/)
+* [The Margulis Group - University of Iowa](https://chem.uiowa.edu/the-margulis-group)
+* [The Ludwig Group - Universität Rostock](https://www.ludwig.chemie.uni-rostock.de)
+* [The Yethiraj Group - University of Wisconsin-Madison](https://yethiraj.chem.wisc.edu)
+* [The Padua Group - École Normale Supérieure de Lyon](http://perso.ens-lyon.fr/agilio.padua/)
+* [The Schroder Group - University of Giessen](https://www.mdy.univie.ac.at/people/schroeder/schroeder.html)
+* [The Scholes Group - Princeton University](http://chemlabs.princeton.edu/scholes/)
+* [The Atkin Group - The University of Western Australia](http://chemlabs.princeton.edu/scholes/)
+* [The Yamaguchi Group - Osaka University](http://www-gcom.mech.eng.osaka-u.ac.jp/index-e.html)
 
