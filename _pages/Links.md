@@ -55,3 +55,11 @@ redirect_from:
  * [Ovito](https://www.ovito.org/)
  * [UCSF Chimera](http://www.cgl.ucsf.edu/chimera/)
  * [Others](https://lammps.sandia.gov/prepost.html)
+
+## Ionic Liquids Group
+
+* [The Fayer Group](https://web.stanford.edu/group/fayer/)
+* [The Margulis Group](https://chem.uiowa.edu/the-margulis-group)
+* [The Hunt Group](http://www.huntresearchgroup.org.uk/)
+* [The Yamaguchi Group](http://www-gcom.mech.eng.osaka-u.ac.jp/index-e.html)
+
