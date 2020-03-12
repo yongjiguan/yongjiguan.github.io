@@ -69,4 +69,4 @@ redirect_from:
 * [The Scholes Group - Princeton University](http://chemlabs.princeton.edu/scholes/)
 * [The Atkin Group - The University of Western Australia](http://chemlabs.princeton.edu/scholes/)
 * [The Yamaguchi Group - Osaka University](http://www-gcom.mech.eng.osaka-u.ac.jp/index-e.html)
-
+* [The Canongia Lopes Group - Universidade de Lisboa](http://web.tecnico.ulisboa.pt/~jnlopes/ZNHP/)
