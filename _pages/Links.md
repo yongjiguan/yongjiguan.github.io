@@ -59,7 +59,14 @@ redirect_from:
 ## Ionic Liquids Group
 
 * [The Fayer Group](https://web.stanford.edu/group/fayer/)
-* [The Margulis Group](https://chem.uiowa.edu/the-margulis-group)
 * [The Hunt Group](http://www.huntresearchgroup.org.uk/)
+* [The Schatz Group](https://sites.northwestern.edu/schatz/)
+* [The Margulis Group](https://chem.uiowa.edu/the-margulis-group)
+* [The Ludwig Group](https://www.ludwig.chemie.uni-rostock.de)
+* [The Yethiraj Group](https://yethiraj.chem.wisc.edu)
+* [The Padua Group](http://perso.ens-lyon.fr/agilio.padua/)
+* [The Schroder Group](https://www.mdy.univie.ac.at/people/schroeder/schroeder.html)
+
+
 * [The Yamaguchi Group](http://www-gcom.mech.eng.osaka-u.ac.jp/index-e.html)
 
