@@ -20,6 +20,8 @@ Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree fr
 
 Academic news
 ======
+  * 2020.03.20
+      * The 10th Journal paper <b>Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field</b> is accepted by <b>Acta Physico-Chimica Sinica</b>.
   * 2019.12.09
       * The 9th Journal paper <b>Photoelectrocatalytic Reduction of CO<sub>2</sub> to Paraffin Using P-N Heterojunctions</b> is accepted by <b>iScience</b>.
   * 2019.10.03 
