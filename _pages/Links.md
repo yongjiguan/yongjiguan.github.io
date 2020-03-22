@@ -62,7 +62,8 @@ redirect_from:
  * [Mendeley](https://www.mendeley.com/?interaction_required=true)
  * [Zotero](https://www.zotero.org/)
  * [ReadCube Papers](https://www.papersapp.com/)
-
+ * [Others](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
+ 
 ## Ionic Liquids Group
 
 * [The Fayer Group - Stanford University](https://web.stanford.edu/group/fayer/)
