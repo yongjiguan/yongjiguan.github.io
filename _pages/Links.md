@@ -56,6 +56,13 @@ redirect_from:
  * [UCSF Chimera](http://www.cgl.ucsf.edu/chimera/)
  * [Others](https://lammps.sandia.gov/prepost.html)
 
+## Reference Management Software
+
+ * [EndNote](https://endnote.com/)
+ * [Mendeley](https://www.mendeley.com/?interaction_required=true)
+ * [Zotero](https://www.zotero.org/)
+ * [ReadCube Papers](https://www.papersapp.com/)
+
 ## Ionic Liquids Group
 
 * [The Fayer Group - Stanford University](https://web.stanford.edu/group/fayer/)
@@ -72,9 +79,3 @@ redirect_from:
 * [The Padua Group - École Normale Supérieure de Lyon](http://perso.ens-lyon.fr/agilio.padua/)
 * [The Schroder Group - University of Giessen](https://www.mdy.univie.ac.at/people/schroeder/schroeder.html)
 * [The Canongia Lopes Group - Universidade de Lisboa](http://web.tecnico.ulisboa.pt/~jnlopes/ZNHP/)
-
-
-
-
-
-
