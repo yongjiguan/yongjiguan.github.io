@@ -56,7 +56,7 @@ redirect_from:
  * [UCSF Chimera](http://www.cgl.ucsf.edu/chimera/)
  * [Others](https://lammps.sandia.gov/prepost.html)
 
-## Reference Management Software [[Download paper PDF here]](https://yongjiguan.github.io/files/2019-5.pdf)
+## Reference Management Software [[Comparison]](https://yongjiguan.github.io/files/Comparison%20of%20reference%20management%20software%20-%20Wikipedia.pdf)
 
  * [EndNote](https://endnote.com/)
  * [Mendeley](https://www.mendeley.com/?interaction_required=true)
