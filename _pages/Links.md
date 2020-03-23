@@ -16,7 +16,7 @@ redirect_from:
 
 ## Computational Calculations
 
-### Molecular Dynamics Softwares
+### Molecular Dynamics Softwares [[Comparison]](https://yongjiguan.github.io/files/Comparison%20of%20software%20for%20molecular%20mechanics%20modeling%20-%20Wikipedia.pdf)
 
 * [LAMMPS](https://lammps.sandia.gov/)
 * [GROMACS](http://www.gromacs.org/)
