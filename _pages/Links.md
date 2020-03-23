@@ -61,6 +61,7 @@ redirect_from:
  * [EndNote](https://endnote.com/)
  * [Mendeley](https://www.mendeley.com/?interaction_required=true)
  * [Zotero](https://www.zotero.org/)
+ * [NoteExpress](http://www.inoteexpress.com/aegean/)
  * [ReadCube Papers](https://www.papersapp.com/)
  * [Others](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
  
