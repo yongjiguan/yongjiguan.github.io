@@ -26,7 +26,7 @@ redirect_from:
 * [MDynaMix](http://www.fos.su.se/~sasha/mdynamix/) 
 * [Others](https://en.wikipedia.org/wiki/Comparison_of_software_for_molecular_mechanics_modeling)  
 
-### Quantum Chemistry Sofrtwares
+### Quantum Chemistry Softwares [[Comparison]](https://yongjiguan.github.io/files/List%20of%20quantum%20chemistry%20and%20solid-state%20physics%20software%20-%20Wikipedia.pdf)
 
  * [Gaussian](https://gaussian.com)
  * [VASP](https://www.vasp.at)
