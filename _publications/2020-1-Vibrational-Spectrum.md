@@ -3,7 +3,7 @@ title: "Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liqu
 collection: publications
 permalink: /publication/2020-1-Vibrational-Spectrum
 date: 2019-12-12
-venue: 'iScience'
+venue: 'Acta Physico-Chimica Sinica'
 ---
 
 Wenqiong Chen, <b>Yongii Guan</b>, Jiao Zhang, Junjie Pei, Xiaoping Zhang, Youquan Deng. <b>Acta Physico-Chimica Sinica</b>, 2020, 34(8): 912-919.
