@@ -6,7 +6,7 @@ date: 2018-10-31
 venue: 'The 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6)'
 ---
 
-<b>Yongii Guan</b>, Wenqiong Chen, Jiao Zhang, Xiaoping Zhang, Youquan Deng. <b>The 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6)</b>, Tottori, Japan, 2018.10.31-2018.11.03.<span style="color: red;">(Oral and Poster Presentation)</span>
+<b>Yongii Guan</b>, Wenqiong Chen, Jiao Zhang, Xiaoping Zhang, Youquan Deng. <b>The 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6)</b>, Tottori, Japan, 2018.10.31-2018.11.03.<span style="color: red;"> (Oral and Poster Presentation)</span>
 
 Times cited: 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Download paper PDF here](https://yongjiguan.github.io/files/2018-3.pdf)
 
