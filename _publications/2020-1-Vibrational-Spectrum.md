@@ -2,7 +2,7 @@
 title: "Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field"
 collection: publications
 permalink: /publication/2020-1-Vibrational-Spectrum
-date: 2019-12-12
+date: 2020-03-20
 venue: 'Acta Physico-Chimica Sinica'
 ---
 
