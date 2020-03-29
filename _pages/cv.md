@@ -64,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently served as a regular reviewer for highly selective journals/conference proceedings, such as <b>Nano Energy</b>, <b>The Journal of Physical Chemistry C</b>, <b>Chinese Physics B</b> and <b>Journal of Molecular Liquids</b>, <b>ICAMEM2019</b>, etc.
+* Currently served as a regular reviewer for highly selective journals/conference proceedings, such as <b>Nano Energy</b>, <b>The Journal of Physical Chemistry C</b>, <b>Chinese Physics B</b>, <b>Journal of Molecular Liquids</b> and <b>ICAMEM2019</b>, etc.
