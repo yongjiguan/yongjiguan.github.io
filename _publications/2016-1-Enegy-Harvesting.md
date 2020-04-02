@@ -1,5 +1,5 @@
 ---
-title: "1. Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation"
+title: "1.Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation"
 collection: publications
 permalink: /publication/2016-1-Enegy-Harvesting
 date: 2016-03-28
