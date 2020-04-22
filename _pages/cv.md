@@ -27,22 +27,6 @@ Work experience
   * School of Information Science and Engineering, Lanzhou University
   * Duties included: Research
   * Supervisor: Professor Xiaoping Zhang
-  
-Skills
-======
-* Copmputational Calculations
-  * Molecular Dynamics Simulation
-  * Density Functional Theory
-* Programming Language
-  * C
-  * Fortran
-  * Python
-  * Matlab
-* Simulation Softwares
-  * DL_POLY
-  * LAMMPS
-  * Gaussian
-  * Materials Studio
 
 Publications
 ======
@@ -64,4 +48,20 @@ Teaching
   
 Service and leadership
 ======
-* Currently served as a regular reviewer for highly selective journals/conference proceedings, such as <b>Nano Energy</b>, <b>The Journal of Physical Chemistry C</b>, <b>Chinese Physics B</b>, <b>Journal of Molecular Liquids</b> and <b>ICAMEM2019</b>, etc.
+* Currently served as a regular reviewer for highly selective journals/conference proceedings, such as <b>Nano Energy</b>, <b>The Journal of Physical Chemistry C</b>, <b>Langmuir</b>, <b>Chinese Physics B</b>, <b>Journal of Molecular Liquids</b> and <b>ICAMEM2019</b>, etc.
+
+Skills
+======
+* Copmputational Calculations
+  * Molecular Dynamics Simulation
+  * Density Functional Theory
+* Programming Language
+  * C
+  * Fortran
+  * Python
+  * Matlab
+* Simulation Softwares
+  * DL_POLY
+  * LAMMPS
+  * Gaussian
+  * Materials Studio
