@@ -48,7 +48,15 @@ Teaching
   
 Service and leadership
 ======
-* Currently served as a regular reviewer for highly selective journals/conference proceedings, such as <b>Nano Energy</b>, <b>The Journal of Physical Chemistry C</b>, <b>Langmuir</b>, <b>Chinese Physics B</b>, <b>Journal of Molecular Liquids</b> and <b>ICAMEM2019</b>, etc.
+##### Currently served as a regular reviewer for highly selective journals/conference proceedings 
+* Journal Review
+  * Nano Energy
+  * The Journal of Physical Chemistry C
+  * Langmuir
+  * Chinese Physics B
+  * Journal of Molecular Liquids
+* Conference Review
+  * 2019 8th International Conference on Advanced Materials and Engineering Materials （8th ICAMEM2019）
 
 Skills
 ======
