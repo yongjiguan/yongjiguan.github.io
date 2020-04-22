@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
+permalink: /contacts/
 title: "Contact - Communication promotes human development and economic well-being"
 author_profile: true
 redirect_from: 
