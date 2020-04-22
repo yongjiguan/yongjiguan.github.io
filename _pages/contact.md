@@ -1,6 +1,6 @@
 ---
-permalink: /contacts/
-title: "Contact - Communication promotes human development and economic well-being"
+permalink: /contact/
+title: "Contacts - Communication promotes human development and economic well-being"
 author_profile: true
 redirect_from: 
   - /md/
