@@ -13,9 +13,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Communication Engineering, Lanzhou University, 2014
-* M.S. in Radio Physics, Lanzhou University, 2016
-* Ph.D in Radio Physcis, Lanzhou University, 2019
+* Sep. 2016 - Jun. 2019 : Doctor of Philosophy
+  * School of Information Science and Engineering, Lanzhou University
+  * Major: Radio Physics
+  * Supervisor: Prof. Xiaoping Zhang and Prof. Youquan Deng
+* Sep. 2014 - Jun. 2016 : Master of Science
+  * School of Information Science and Engineering, Lanzhou University
+  * Major: Radio Physics
+  * Supervisor: Prof. Xiaoping Zhang and Dr. Qunfeng Shao
+* Sep. 2010 - Jun. 2014 : Bachelor of Engineering
+  * School of Information Science and Engineering, Lanzhou University
+  * Major: Communication Engineering
+  * Supervisor: Prof. Xiaoping Zhang and Dr. Qunfeng Shao
 
 Work experience
 ======
