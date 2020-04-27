@@ -18,6 +18,10 @@ About me
 ======
 Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from [Lanzhou University](http://www.lzu.edu.cn) in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in [Imperial College London](http://www.imperial.ac.uk/), advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.
 
+<div style="WIDTH: 120; HEIGHT: 140; OVERFLOW: scroll; scrollbar-face-color:#FFC4E1; scrollbar-highlight-color:#FFFFFF; scrollbar-3dlight-color:#FF95CA; scrollbar-darkshadow-color:#FFB5DA; scrollbar-shadow-color:#FF6AB5; scrollbar-arrow-color:#FFFFFF; scrollbar-track-color:#FFDDEE">
+Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from [Lanzhou University](http://www.lzu.edu.cn) in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in [Imperial College London](http://www.imperial.ac.uk/), advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.
+</div>
+
 Academic news
 ======
 
