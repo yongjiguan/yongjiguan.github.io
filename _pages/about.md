@@ -11,10 +11,8 @@ redirect_from:
 ### There are no shortcuts to any place worth going! ---|--- 路漫漫其修远兮，吾将上下而求索！
 
 <p align="center">
-  <img src="https://yongjiguan.github.io/images/Road.jpg" alt="Photo" width="200" height="200"/> 
+  <img src="https://yongjiguan.github.io/images/Road.jpg" alt="Photo" width="384" height="240"/> 
 </p>
-
-<img src="/i/eg_mouse.jpg" width="200" height="200"style="width:300;">
 
 About me
 ======
