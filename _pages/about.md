@@ -81,7 +81,7 @@ For more info
 ======
 More info about Yongji Guan's personal academic website can be found in [Yongji Guan's website](https://yongjiguan.github.io). The Yongji Guan's website includes his [Publications](https://yongjiguan.github.io//publications/), [Talks](https://yongjiguan.github.io//talks/), [Teaching](https://yongjiguan.github.io//teaching/), [CV/Bio](https://yongjiguan.github.io//cv/), [Portfolio](https://yongjiguan.github.io//portfolio/), [Blog Posts](https://yongjiguan.github.io//year-archive/), [Contact](https://yongjiguan.github.io//contact/) and [Links](https://yongjiguan.github.io//Links/), which might be helpful for you to know him.
 
-<div style="WIDTH: 120; HEIGHT: 140; BACKGROUND-COLOR: #0000C6; OVERFLOW: scroll; scrollbar-face-color:#70807d; scrollbar-arrow-color:#ffffff; scrollbar-highlight-color:#ffffff; scrollbar-3dlight-color:#70807d;scrollbar-shadow-color:#ffffff; scrollbar-darkshadow-color:#70807d; scrollbar-track-color:#ffffff">
+<div style="WIDTH: 120; HEIGHT: 140; OVERFLOW: scroll; scrollbar-face-color:#FFC4E1; scrollbar-highlight-color:#FFFFFF; scrollbar-3dlight-color:#FF95CA; scrollbar-darkshadow-color:#FFB5DA; scrollbar-shadow-color:#FF6AB5; scrollbar-arrow-color:#FFFFFF; scrollbar-track-color:#FFDDEE">
   * 2020.03.19
       * The 10th Journal paper <b>Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field</b> is accepted by <b>Acta Physico-Chimica Sinica</b>.
   * 2019.12.09
