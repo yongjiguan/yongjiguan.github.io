@@ -20,12 +20,26 @@ Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree fr
 
 Academic news
 ======
-<pre>
+
+ 1 <div class="box3">
+ 2   <div class="border3">
+ 3     <div>This is a test 1.</div>
+ 4     <div>This is a test 2.</div>
+ 5     <div>This is a test 3.</div>
+ 6     <div>This is a test 4.</div>
+ 7     <div>This is a test 5.</div>
+ 8     <div>This is a test 1.</div>
+ 9   </div>
+10 </div>
+
 <div id="app">
   <div class="md-edit" v-on:input="editOnInput($event)" contenteditable="true"></div>
   <div>{{line}}</div>
  </div>
 </div>
+
+<pre>
+
 
   * 2020.03.19
       * The 10th Journal paper <b>Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field</b> is accepted by <b>Acta Physico-Chimica Sinica</b>.
