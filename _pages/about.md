@@ -80,3 +80,18 @@ Academic news
 For more info
 ======
 More info about Yongji Guan's personal academic website can be found in [Yongji Guan's website](https://yongjiguan.github.io). The Yongji Guan's website includes his [Publications](https://yongjiguan.github.io//publications/), [Talks](https://yongjiguan.github.io//talks/), [Teaching](https://yongjiguan.github.io//teaching/), [CV/Bio](https://yongjiguan.github.io//cv/), [Portfolio](https://yongjiguan.github.io//portfolio/), [Blog Posts](https://yongjiguan.github.io//year-archive/), [Contact](https://yongjiguan.github.io//contact/) and [Links](https://yongjiguan.github.io//Links/), which might be helpful for you to know him.
+
+<div 
+style="WIDTH: 120; 
+HEIGHT: 140; 
+BACKGROUND-COLOR: #0000C6; 
+OVERFLOW: scroll; 
+scrollbar-face-color:#70807d; 
+scrollbar-arrow-color:#ffffff; 
+scrollbar-highlight-color:#ffffff; 
+scrollbar-3dlight-color:#70807d; 
+scrollbar-shadow-color:#ffffff; 
+scrollbar-darkshadow-color:#70807d; 
+scrollbar-track-color:#ffffff">
+文字内容
+</div> 
