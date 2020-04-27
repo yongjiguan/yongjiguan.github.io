@@ -20,7 +20,7 @@ Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree fr
 
 Academic news
 ======
-
+<pre>
 <div id="app">
   <div class="md-edit" v-on:input="editOnInput($event)" contenteditable="true"></div>
   <div>{{line}}</div>
@@ -61,7 +61,7 @@ Academic news
       * I attent <b>the 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I)</b> and give oral and poster prentation in Dalian, China.
   * 2016.03.09
       * The 1st Journal paper <b>Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation</b> is accepted by <b>The Journal of Chemical Physics</b>.	  
-
+</pre>
 For more info
 ======
 More info about Yongji Guan's personal academic website can be found in [Yongji Guan's website](https://yongjiguan.github.io). The Yongji Guan's website includes his [Publications](https://yongjiguan.github.io//publications/), [Talks](https://yongjiguan.github.io//talks/), [Teaching](https://yongjiguan.github.io//teaching/), [CV/Bio](https://yongjiguan.github.io//cv/), [Portfolio](https://yongjiguan.github.io//portfolio/), [Blog Posts](https://yongjiguan.github.io//year-archive/), [Contact](https://yongjiguan.github.io//contact/) and [Links](https://yongjiguan.github.io//Links/), which might be helpful for you to know him.
