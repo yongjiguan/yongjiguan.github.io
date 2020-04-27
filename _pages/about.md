@@ -62,6 +62,7 @@ Academic news
   * 2016.03.09
       * The 1st Journal paper <b>Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation</b> is accepted by <b>The Journal of Chemical Physics</b>.	  
 </pre>
+
 For more info
 ======
 More info about Yongji Guan's personal academic website can be found in [Yongji Guan's website](https://yongjiguan.github.io). The Yongji Guan's website includes his [Publications](https://yongjiguan.github.io//publications/), [Talks](https://yongjiguan.github.io//talks/), [Teaching](https://yongjiguan.github.io//teaching/), [CV/Bio](https://yongjiguan.github.io//cv/), [Portfolio](https://yongjiguan.github.io//portfolio/), [Blog Posts](https://yongjiguan.github.io//year-archive/), [Contact](https://yongjiguan.github.io//contact/) and [Links](https://yongjiguan.github.io//Links/), which might be helpful for you to know him.
