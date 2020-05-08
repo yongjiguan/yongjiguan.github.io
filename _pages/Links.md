@@ -54,6 +54,7 @@ redirect_from:
  * [Pymol](https://pymol.org/2/)
  * [Ovito](https://www.ovito.org/)
  * [UCSF Chimera](http://www.cgl.ucsf.edu/chimera/)
+ * [AIMAll](http://aim.tkgristmill.com/index.html)
  * [Others](https://lammps.sandia.gov/prepost.html)
 
 ## Reference Management Software [[Comparison]](https://yongjiguan.github.io/files/Comparison%20of%20reference%20management%20software%20-%20Wikipedia.pdf)
