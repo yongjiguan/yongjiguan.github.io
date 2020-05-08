@@ -22,7 +22,7 @@ Academic news
 ======
 
   * 2020.05.08
-      * The 11th Journal paper <b>Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface</b> is accepted by <b>Journal of Molecular Liquidsa</b>.
+      * The 11th Journal paper <b>Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface</b> is accepted by <b>Journal of Molecular Liquids</b>.
   * 2020.03.19
       * The 10th Journal paper <b>Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field</b> is accepted by <b>Acta Physico-Chimica Sinica</b>.
   * 2019.12.09
