@@ -3,7 +3,7 @@ title: "Vibrational Spectrum of 1-ethyl-3-methylimidazolium tetrafluoroborate on
 collection: publications
 permalink: /publication/2020-3-Vibrational-Spectrum
 date: 2020-05-08
-venue: 'Acta Physico-Chimica Sinica'
+venue: 'Journal of Molecular Liquids'
 ---
 
 Jiao Zhang<sup>1</sup>, <b>Yongii Guan<sup>1</sup></b>, Jinyuan Wang, Fulong Yang, Huanwang Jing, Xiaoping Zhang, Youquan Deng. <b>Journal of Molecular Liquids</b>, 2020, 36(X), 2001004.
