@@ -70,7 +70,7 @@ redirect_from:
 
 * [The Fayer Group - Stanford University](https://web.stanford.edu/group/fayer/)
 * [The Scholes Group - Princeton University](http://chemlabs.princeton.edu/scholes/)
-* [The welton Group - Imperial College London](https://www.imperial.ac.uk/people/t.welton)
+* [The Welton Group - Imperial College London](https://www.imperial.ac.uk/people/t.welton)
 * [The Hunt Group - Imperial College London](http://www.huntresearchgroup.org.uk/)
 * [The Schatz Group - Northwestern University](https://sites.northwestern.edu/schatz/)
 * [The Atkin Group - The University of Western Australia](http://chemlabs.princeton.edu/scholes/)
