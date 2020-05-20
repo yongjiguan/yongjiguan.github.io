@@ -84,7 +84,7 @@ author:
   avatar           : "gyj.png"
   bio              : "Postdoc, Physical Chemistry, Molecular Sciences Research Hub, Department of Chemistry, Imperial College London"
   location         : "London, United Kingdom"
-  employer         : ""
+  employer         : #"Imperial College London"
   email            : "yongji.guan@imperial.ac.uk"
   
   researchgate     : "https://www.researchgate.net/profile/Yongji_Guan"
