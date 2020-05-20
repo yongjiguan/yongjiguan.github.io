@@ -92,7 +92,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-9210-3530"
   github           : "yongjiguan"
   publons          : "https://publons.com/researcher/1467632/yongji-guan/"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/"
   
   facebook         :
   linkedin         : "yongji-guan-09434b195"
