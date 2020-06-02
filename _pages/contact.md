@@ -11,8 +11,7 @@ redirect_from:
 
 ### Yongji Guan, PhD
 <address>
-==============================================================
-
+==============================================================<br /> 
 Institute of Optoelectronics and Electromagnetic Information,<br /> 
 School of Information Science and Engineering, Lanzhou University,<br /> 
 Room401, Feiyun Building, 222 South Tianshui Road,<br /> 
