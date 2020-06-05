@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Yongji Guan's personal academic website!"
+title: "Welcome to Yongji Guan's Personal Academic Website!"
 permalink: /
 excerpt: "About me"
 author_profile: true
