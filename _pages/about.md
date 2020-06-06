@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<body>
+	<hr/>
+</body>
+
 About me
 ======
 <html lang="en">
