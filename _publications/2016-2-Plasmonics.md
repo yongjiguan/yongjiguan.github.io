@@ -1,5 +1,5 @@
 ---
-title: "Near Infrared Plasmonic Optical Trapping Based on Hybrid Metal Nanorod"
+title: "2.Near Infrared Plasmonic Optical Trapping Based on Hybrid Metal Nanorod"
 collection: publications
 permalink: /publication/2016-2-Plasmonics
 date: 2016-11-10
