@@ -58,6 +58,20 @@ About me
 
 <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from <a href="http://www.lzu.edu.cn">Lanzhou University</a> in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in <a href="http://www.imperial.ac.uk">Imperial College London</a>, advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.</div><br>
 
+<div style="width:1000px; height:300px; overflow:auto; border:1px solid #000000;">
+	LAMMPS is a classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator.
+	
+	LAMMPS has potentials for solid-state materials (metals, semiconductors) and soft matter (biomolecules, polymers) and coarse-grained or mesoscopic systems. It can be used to model atoms or, more generically, as a parallel particle simulator at the atomic, meso, or continuum scale.
+	
+	LAMMPS runs on single processors or in parallel using message-passing techniques and a spatial-decomposition of the simulation domain. Many of its models have versions that provide accelerated performance on CPUs, GPUs, and Intel Xeon Phis. The code is designed to be easy to modify or extend with new functionality.
+	
+	LAMMPS is distributed as an open source code under the terms of the GPL. The current version can be downloaded here. Links are also included to older versions. All LAMMPS development is done via GitHub, so all versions can also be accessed there. Periodic releases are also posted to SourceForge.
+	
+	LAMMPS is distributed by Sandia National Laboratories, a US Department of Energy laboratory. The main authors of LAMMPS are listed on this page along with contact info and other contributors. Funding for LAMMPS development has come primarily from DOE (OASCR, OBER, ASCI, LDRD, Genomes-to-Life) and is acknowledged here.
+	
+	The LAMMPS web site is hosted by Sandia, which has this Privacy and Security statement.
+</div> 
+
 Academic news
 ======
 
