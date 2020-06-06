@@ -29,8 +29,8 @@ About me
 			width: 100%; 		/* 定义一个大盒子  宽度100% */
 		}
 		.dahezi_img_right{		/* 第二个盒子, */
-			float: right; 		/* 要左浮动 */
-			margin-left: 30px; /* 为了让图片和文字不贴着,右外边距定义40px */
+			float: right; 		/* 要右浮动 */
+			margin-left: 30px;  /* 为了让图片和文字不贴着,左外边距定义30px */
 		}
 		.dahezi_txt_left{		/* 定义第三盒子 */
 			font-size: 18px;  	/* 设置字体大小 */
@@ -40,8 +40,8 @@ About me
 			text-justify: inter-ideograph
 		}
 		img{
-			width: 240px;		/* 标签样式 让图片宽度240px, */
-			height: auto;		/* 高度自动 随它去吧 */
+			width: 240px;		/* 标签样式,让图片宽度240px, */
+			height: auto;		/* 高度自动,随它去吧 */
 		}
 	</style>
 </head>
