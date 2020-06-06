@@ -40,7 +40,7 @@ About me
 			text-justify: inter-ideograph
 		}
 		img{
-			width: 240px;		/* 标签样式,让图片宽度240px, */
+			width: 280px;		/* 标签样式,让图片宽度240px, */
 			height: auto;		/* 高度自动,随它去吧 */
 		}
 	</style>
