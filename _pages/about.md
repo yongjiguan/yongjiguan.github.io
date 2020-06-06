@@ -66,3 +66,16 @@ Academic news
 For more info
 ======
 More info about Yongji Guan's personal academic website can be found in [Yongji Guan's website](https://yongjiguan.github.io). The Yongji Guan's website includes his [Publications](https://yongjiguan.github.io//publications/), [Talks](https://yongjiguan.github.io//talks/), [Teaching](https://yongjiguan.github.io//teaching/), [CV/Bio](https://yongjiguan.github.io//cv/), [Portfolio](https://yongjiguan.github.io//portfolio/), [Blog Posts](https://yongjiguan.github.io//year-archive/), [Contact](https://yongjiguan.github.io//contact/) and [Links](https://yongjiguan.github.io//Links/), which might be helpful for you to know him.
+
+<div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">More info about Yongji Guan's personal academic website can be found in <a href="https://yongjiguan.github.io">Yongji Guan's website</a>. The Yongji Guan's website includes his <a href="https://yongjiguan.github.io//publications/">Publications</a>, 
+<a href="https://yongjiguan.github.io//talks/">Talks</a>, 
+<a href="https://yongjiguan.github.io//teaching/">Teaching</a>, 
+<a href="https://yongjiguan.github.io//cv/">CV/Bio</a>, 
+<a href="https://yongjiguan.github.io//portfolio/">Portfolio</a>, 
+<a href="https://yongjiguan.github.io//year-archive/">Blog Posts</a>, 
+<a href="https://yongjiguan.github.io//contact/">Contact</a> and 
+<a href="https://yongjiguan.github.io//Links/">Links</a>, which might be helpful for you to know him.
+
+
+Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from <a href="http://www.lzu.edu.cn">Lanzhou University</a> in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in <a href="http://www.imperial.ac.uk">Imperial College London</a>, advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.<p align="right"><img src="https://yongjiguan.github.io/images/Road.jpg" alt="Photo" width="144" height="90"/> 
+</p></div>
