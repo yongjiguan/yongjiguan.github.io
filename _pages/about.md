@@ -58,7 +58,7 @@ About me
 
 <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from <a href="http://www.lzu.edu.cn">Lanzhou University</a> in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in <a href="http://www.imperial.ac.uk">Imperial College London</a>, advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.</div><br>
 
-<div style="width:750px; height:300px; overflow:auto;">
+<div style="width:100%; height:300px; overflow:auto;">
   * 2020.05.09
       * <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">The 12th Journal paper <b>In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation</b> is accepted by <b>Journal of Molecular Liquids</b>.</div>
   * 2020.05.08
