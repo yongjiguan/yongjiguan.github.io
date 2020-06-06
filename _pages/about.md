@@ -64,7 +64,7 @@ Academic news
 ======
 
   * 2020.05.09
-      * The 12th Journal paper <b>In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation</b> is accepted by <b>Journal of Molecular Liquids</b>.
+      * <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">The 12th Journal paper <b>In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation</b> is accepted by <b>Journal of Molecular Liquids</b></div>.
   * 2020.05.08
       * The 11th Journal paper <b>Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface</b> is accepted by <b>Journal of Molecular Liquids</b>.
   * 2020.03.19
