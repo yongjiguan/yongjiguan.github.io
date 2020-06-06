@@ -23,14 +23,14 @@ About me
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title></title>
 	<style>
-		.dahezhi{
+		.block{
 			width: 100%; 		/* 定义一个大盒子  宽度100% */
 		}
-		.dahezi_img_right{		/* 第二个盒子, */
+		.block_img_right{		/* 第二个盒子, */
 			float: right; 		/* 要右浮动 */
 			margin-left: 30px;  /* 为了让图片和文字不贴着,左外边距定义30px */
 		}
-		.dahezi_txt_left{		/* 定义第三盒子 */
+		.block_txt_left{		/* 定义第三盒子 */
 			font-size: 18px;  	/* 设置字体大小 */
 			line-height: 1.6;	/* 设置行距 */
 			width: 100px
@@ -44,12 +44,12 @@ About me
 	</style>
 </head>
 <body>
-	<div class="dahezhi">
-		<div class="dahezi_img_right"><img src="https://yongjiguan.github.io/images/GYJ.jpg"/></div>
-		<div class="dahezi_txt_left">	
+	<div class="block">
+		<div class="block_img_right"><img src="https://yongjiguan.github.io/images/GYJ.jpg"/></div>
+		<div class="block_txt_left">	
 		Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from <a href="http://www.lzu.edu.cn">Lanzhou University</a> in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in <a href="http://www.imperial.ac.uk">Imperial College London</a>, advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.
 		</div>
-		</div>
+	</div>
 </body>
 </html>	
 
