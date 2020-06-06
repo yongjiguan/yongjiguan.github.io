@@ -18,6 +18,10 @@ About me
 ======
 Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from [Lanzhou University](http://www.lzu.edu.cn) in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in [Imperial College London](http://www.imperial.ac.uk/), advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.
 
+<br>
+<div style="font-size:12px;width:300;text-align:justify;text-justify:inter-ideograph">¨Crepower¨ Brand Belts, Chains and other Transmission Parts are manufactured under ISO9001 certified quality-control system. With improved quality material and well-organized production procedures, ¨Crepower¨ power transmission products have noticeably fatigue strength and long-service life.We can supply all types and sizes according to the related standards and customers’ requirements and</div>
+<br>
+
 Academic news
 ======
 
