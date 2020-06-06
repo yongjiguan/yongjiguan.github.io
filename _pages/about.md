@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### There are no shortcuts to any place worth going! ---|--- 路漫漫其修远兮，吾将上下而求索！
 
-<p align="center">
-	<img src="https://yongjiguan.github.io/images/Road.jpg" alt="Photo" width="1152" height="720"/> 
-</p>
 
 About me
 ======
@@ -104,5 +100,12 @@ Academic news
 
 For more info
 ======
-<div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">More info about Yongji Guan's personal academic website can be found in <a href="https://yongjiguan.github.io">Yongji Guan's website</a>. The Yongji Guan's website includes his <a href="https://yongjiguan.github.io//publications/">Publications</a>, <a href="https://yongjiguan.github.io//talks/">Talks</a>, <a href="https://yongjiguan.github.io//teaching/">Teaching</a>, <a href="https://yongjiguan.github.io//cv/">CV/Bio</a>, <a href="https://yongjiguan.github.io//portfolio/">Portfolio</a>, <a href="https://yongjiguan.github.io//year-archive/">Blog Posts</a>, <a href="https://yongjiguan.github.io//contact/">Contact</a> and 
-<a href="https://yongjiguan.github.io//Links/">Links</a>, which might be helpful for you to know him.</div>
+<div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">
+	More info about Yongji Guan's personal academic website can be found in <a href="https://yongjiguan.github.io">Yongji Guan's website</a>. The Yongji Guan's website includes his <a href="https://yongjiguan.github.io//publications/">Publications</a>, <a href="https://yongjiguan.github.io//talks/">Talks</a>, <a href="https://yongjiguan.github.io//teaching/">Teaching</a>, <a href="https://yongjiguan.github.io//cv/">CV/Bio</a>, <a href="https://yongjiguan.github.io//portfolio/">Portfolio</a>, <a href="https://yongjiguan.github.io//year-archive/">Blog Posts</a>, <a href="https://yongjiguan.github.io//contact/">Contact</a> and <a href="https://yongjiguan.github.io//Links/">Links</a>, which might be helpful for you to know him.
+</div>
+
+### There are no shortcuts to any place worth going! ---|--- 路漫漫其修远兮，吾将上下而求索！
+
+<p align="center">
+	<img src="https://yongjiguan.github.io/images/Road.jpg" alt="Photo" width="1152" height="720"/> 
+</p>
