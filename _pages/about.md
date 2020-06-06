@@ -21,38 +21,6 @@ About me
 </p></div>
 <br>
 
-<div id="container">
-<div id="photo"><img src="https://yongjiguan.github.io/images/GYJ.jpg" /></div>
-<div id="content">
-<div id="text">ongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from <a href="http://www.lzu.edu.cn">Lanzhou University</a> in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in <a href="http://www.imperial.ac.uk">Imperial College London</a>, advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.</div>
-</div>
-</div>
-
-<body>
-<div>
-<img src="https://yongjiguan.github.io/images/Road.jpg" alt="Photo" width="576" height="360"/> 
-</div>
-<p>
-Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from <a href="http://www.lzu.edu.cn">Lanzhou University</a> in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in <a href="http://www.imperial.ac.uk">Imperial College London</a>, advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.
-</p>
-</body>
-
-<div class="copyright">
-        <div style="clear:both;"></div>      //清除浮动
-        
-        <div class="copyright_content_left">
-            ...............
-        </div><!--copyright_content_left结束-->
-        <div class="copyright_content">
-            ...............
-        </div><!--copyright_content结束-->
-        <div class="copyright_content_right">
-            ...............
-        </div><!--copyright_content_right结束-->
-
-        <div style="clear:both;"></div>     //清除浮动
-</div>  
-
 Academic news
 ======
 
