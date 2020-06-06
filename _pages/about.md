@@ -36,7 +36,9 @@ About me
 		.dahezi_txt_left{		/* 定义第三盒子 */
 			font-size: 18px;  	/* 设置字体大小 */
 			line-height: 1.6;	/* 设置行距 */
-			text-justify: inter-word
+			width: 150px
+			text-align: justify;
+			text-justify: inter-ideograph
 		}
 		img{
 			width: 300px;		/* 标签样式 让图片宽度500px, */
