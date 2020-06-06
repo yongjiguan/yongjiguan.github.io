@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*******************************************************
-<br>
-## About me
-======
+# About me
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
