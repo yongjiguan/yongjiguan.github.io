@@ -22,10 +22,9 @@ About me
 <br>
 
 <div id="container">
-<div id="photo"><img src="图片地址" /></div>
+<div id="photo"><img src="https://yongjiguan.github.io/images/GYJ.jpg" /></div>
 <div id="content">
-<div id="text">文字介绍</div>
-<div id="news">新闻内容</div>
+<div id="text">ongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from <a href="http://www.lzu.edu.cn">Lanzhou University</a> in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in <a href="http://www.imperial.ac.uk">Imperial College London</a>, advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.</div>
 </div>
 </div>
 
