@@ -31,7 +31,7 @@ About me
 		}
 		.dahezi_img_right{		/* 第二个盒子, */
 			float: right; 		/* 要左浮动 */
-			margin-left: 40px; /* 为了让图片和文字不贴着,右外边距定义40px */
+			margin-left: 30px; /* 为了让图片和文字不贴着,右外边距定义40px */
 		}
 		.dahezi_txt_left{		/* 定义第三盒子 */
 			font-size: 18px;  	/* 设置字体大小 */
