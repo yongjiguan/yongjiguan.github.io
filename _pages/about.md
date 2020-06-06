@@ -32,8 +32,6 @@ About me
 		.dahezi_txt_left{		/* 定义第三盒子 */
 			font-size: 18px;  	/* 设置字体大小 */
 			line-height: 1.6;	/* 设置行距 */
-			text-align: justify;
-			text-justify: inter-word
 			margin-right: 40px; /* 为了让图片和文字不贴着,右外边距定义40px */
 			float: left; 		/* 要左浮动 */
 			}
