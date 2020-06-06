@@ -1,5 +1,5 @@
 ---
-title: "4.Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation"
+title: "Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation"
 collection: publications
 permalink: /publication/2017-Nanowetting
 date: 2017-10-26
