@@ -58,7 +58,7 @@ About me
 
 <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from <a href="http://www.lzu.edu.cn">Lanzhou University</a> in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in <a href="http://www.imperial.ac.uk">Imperial College London</a>, advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.</div><br>
 
-<div style="width:800px; height:300px; overflow:auto; border:1px solid #000000;">
+<div style="width:750px; height:300px; overflow:auto; border:1px solid #000000;">
 	LAMMPS is a classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator.
 	
 	LAMMPS has potentials for solid-state materials (metals, semiconductors) and soft matter (biomolecules, polymers) and coarse-grained or mesoscopic systems. It can be used to model atoms or, more generically, as a parallel particle simulator at the atomic, meso, or continuum scale.
