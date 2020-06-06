@@ -60,6 +60,10 @@ About me
 Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from <a href="http://www.lzu.edu.cn">Lanzhou University</a> in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in <a href="http://www.imperial.ac.uk">Imperial College London</a>, advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.
 </div>
 
+<body>
+	<hr/>
+</body>
+
 Academic news
 ======
 <div style="width:100%; height:300px; overflow:auto;">
@@ -101,7 +105,11 @@ Academic news
       * <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">I attent <b>the 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I)</b> and give oral and poster prentation in Dalian, China.</div>
   * 2016.03.09
       * <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">The 1st Journal paper <b>Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation</b> is accepted by <b>The Journal of Chemical Physics</b>.</div>
-</div> 
+</div>
+
+<body>
+	<hr/>
+</body>
 
 For more info
 ======
