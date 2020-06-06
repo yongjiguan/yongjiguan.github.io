@@ -37,6 +37,22 @@ Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree fr
 </p>
 </body>
 
+<div class="copyright">
+        <div style="clear:both;"></div>      //清除浮动
+        
+        <div class="copyright_content_left">
+            ...............
+        </div><!--copyright_content_left结束-->
+        <div class="copyright_content">
+            ...............
+        </div><!--copyright_content结束-->
+        <div class="copyright_content_right">
+            ...............
+        </div><!--copyright_content_right结束-->
+
+        <div style="clear:both;"></div>     //清除浮动
+</div>  
+
 Academic news
 ======
 
