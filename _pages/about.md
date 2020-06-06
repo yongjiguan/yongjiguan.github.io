@@ -19,6 +19,40 @@ About me
 <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from <a href="http://www.lzu.edu.cn">Lanzhou University</a> in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in <a href="http://www.imperial.ac.uk">Imperial College London</a>, advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.<p align="right"><img src="https://yongjiguan.github.io/images/Road.jpg" alt="Photo" width="144" height="90"/> 
 </p></div>
 
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title></title>
+	<style>
+		.dahezhi{
+			width: 100%; 		/* 定义一个大盒子  宽度100% */
+		}
+		.dahezi_img_left{		/* 第二个盒子, */
+			float: left; 		/* 要左浮动 */
+			margin-right: 40px; /* 为了让图片和文字不贴着,右外边距定义40px */
+			}
+		.dahezi_txt_right{		/* 定义第三盒子 */
+			font-size: 15px;  	/* 设置字体大小 */
+			line-height: 1.6;	/* 设置行距 */
+		}
+		img{
+			width: 500px;		/* 标签样式 让图片宽度500px, */
+			height: auto;		/* 高度自动 随它去吧 */
+			}
+	</style>
+</head>
+<body>
+	<div class="dahezhi">
+		<div class="dahezi_img_left"><img src="https://yongjiguan.github.io/images/GYJ.jpg" /> </div>
+		<div class="dahezi_txt_right">	
+		Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from <a href="http://www.lzu.edu.cn">Lanzhou University</a> in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in <a href="http://www.imperial.ac.uk">Imperial College London</a>, advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.
+		</div>
+	</div>
+</body>
+</html>	
+
 Academic news
 ======
 
