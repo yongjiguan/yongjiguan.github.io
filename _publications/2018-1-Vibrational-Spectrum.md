@@ -1,0 +1,17 @@
+---
+title: "Influence of External Electric Field on Vibrational Spectrum of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation"
+collection: publications
+permalink: /publication/2018-1-Vibrational-Spectrum
+date: 2018-01-09
+venue: 'Acta Physico-Chimica Sinica'
+---
+
+Wenqiong Chen, <b>Yongii Guan</b>, Xiaoping Zhang, Youquan Deng. <b>Acta Physico-Chimica Sinica</b>, 2018, 34(8): 912-919.
+
+Times cited: 4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Download paper PDF here](https://yongjiguan.github.io/files/2018-1.pdf)
+
+## Abstract
+In this study, the influence of an external electric field (EEF) on the vibrational spectra of an imidazolium-based ionic liquid, 1-ethyl-3methylimidazolium hexfluorophosphate (EMIMPF<sub>6</sub>), in the wavenumber range from 0 to 4000 cm<sup>-1</sup> was probed by molecular dynamics (MD) simulation at 350 K. The results showed that the experimentally obtained spectrum could be reproduced by the calculated vibrational bands (VBs) in the wavenumber range from 400 to 4000 cm<sup>-1</sup> using MD simulation without any EEF. When the EEF applied increased from 0 to 9 V·nm<sup>-1</sup>, the VB intensities at 50.0 and 199.8 cm<sup>-1</sup> increased continuously and then tended to be saturated, while the VB intensities from 400 to 4000 cm<sup>-1</sup> decrease and eventually disappear. Moreover, the VB at 50.0 cm<sup>-1</sup> was red-shifted to ~16.7 cm<sup>-1</sup> and then increased to 33.3 cm<sup>-1</sup> as the EEF was increased from 0 to 2 and then to 3 V·nm<sup>-1</sup> and higher. The VB at 3396.6 cm<sup>-1</sup> was redshifted to ~16.7 cm<sup>-1</sup> and then increased to 33.3 cm<sup>-1</sup> as the EEF was increased from 0 to 3 and then to 4 V·nm<sup>-1</sup> and higher; however, the position of other VBs from 0 to 4000 cm<sup>-1</sup> remain almost unchanged. Based on further analysis of the simulation results and previously reported studies, for the VB at 50.0 cm<sup>-1</sup>, the increasing EEF enhances the polarity between cations and anions; thus, the difference in dipole moment between the cations and the anions increases, which continually increases the VB intensity until saturation is reached. For the VB at 199.8 cm<sup>-1</sup>, the increasing EEF intensifies the twisting of the ethyl chain, which enhances the VB intensity until saturation. For the other VBs from 400 to 4000 cm<sup>-1</sup>, the increasing EEF makes the orientation of the cations and anions in EMIMPF<sub>6</sub> more consistent; thus, it can be conjectured that such consistent orientation may weaken the VB intensities and can even make them disappear. The redshift of VB at 50.0 cm<sup>-1</sup> may occur because the EEF breaks the distribution of the electrostatic field inside EMIMPF<sub>6</sub> and then weakens the interactions between cations and anions. The redshift of VB at 3396.6 cm<sup>-1</sup> may be attributed to the EEF weakening the stretching vibration of the hydrogen bonds formed between the N atoms and the acidic hydrogen atoms on the cationic imidazolium rings. The EEF does not change the positions of the other VBs because the inherent stretching, bending, and rocking vibration of functional groups are not affected by the EEF.
+
+## Recommended citation
+Wenqiong Chen, <b>Yongii Guan</b>, Xiaoping Zhang, Youquan Deng. Influence of External Electric Field on Vibrational Spectrum of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation. <b>Acta Physico-Chimica Sinica</b>, 2018, 34(8): 912-919.
