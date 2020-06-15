@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Recent Posts"
-subtitle = "MY FANS DON'T FEEL LIKE I HOLD ANYTHING BACK FROM THEM"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -28,6 +28,7 @@ subtitle = "MY FANS DON'T FEEL LIKE I HOLD ANYTHING BACK FROM THEM"
     tag = ""
     category = ""
     publication_type = ""
+    author = ""
     exclude_featured = false
   
 [design]
@@ -36,7 +37,7 @@ subtitle = "MY FANS DON'T FEEL LIKE I HOLD ANYTHING BACK FROM THEM"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.

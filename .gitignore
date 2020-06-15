@@ -2,6 +2,9 @@
 .idea/
 .vscode/
 
+# Hugo
+exampleSite/public/
+
 # Jupyter
 .ipynb_checkpoints/
 

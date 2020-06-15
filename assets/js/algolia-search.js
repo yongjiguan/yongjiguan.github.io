@@ -1,6 +1,6 @@
 /*************************************************
- *  academia
- *  https://github.com/gcushen/hugo-academia
+ *  Academic
+ *  https://github.com/gcushen/hugo-academic
  *
  *  Algolia based search algorithm.
  **************************************************/
