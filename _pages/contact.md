@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Contacts - Communication promotes human development and economic well-being"
+title: "Contacts - Communication promotes human development"
 author_profile: true
 redirect_from: 
   - /md/
