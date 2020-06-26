@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications - (Numbers: 15 | Citations: 54 | h-index: 4 | i10-index: 200)"
+title: "Publications - (Numbers: 15 | Citations: 54 | h-index: 4 | i10-index: 2)"
 permalink: /publications/
 author_profile: true
 ---
