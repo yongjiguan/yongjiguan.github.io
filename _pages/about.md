@@ -67,12 +67,12 @@ Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree fr
 Academic news
 ======
 <div style="width:100%; height:300px; overflow:auto;">
-  * 2020.05.09
-      * <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">The 12th Journal paper <b>In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation</b> is accepted by <b>Journal of Molecular Liquids</b>.</div>
-  * 2020.05.08
-      * <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">The 11th Journal paper <b>Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface</b> is accepted by <b>Journal of Molecular Liquids</b>.</div>
-  * 2020.03.19
-      * <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">The 10th Journal paper <b>Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field</b> is accepted by <b>Acta Physico-Chimica Sinica</b>.</div>
+  * 2020.05.09*
+  <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">The 12th Journal paper <b>In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation</b> is accepted by <b>Journal of Molecular Liquids</b>.</div>
+  * 2020.05.08*
+  <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">The 11th Journal paper <b>Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface</b> is accepted by <b>Journal of Molecular Liquids</b>.</div>
+  * 2020.03.19* 
+  <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">The 10th Journal paper <b>Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field</b> is accepted by <b>Acta Physico-Chimica Sinica</b>.</div>
   * 2019.12.09
       * <div style="font-size:18px;width:150;text-align:justify;text-justify:inter-ideograph">The 9th Journal paper <b>Photoelectrocatalytic Reduction of CO<sub>2</sub> to Paraffin Using P-N Heterojunctions</b> is accepted by <b>iScience</b>.</div>
   * 2019.10.03 
