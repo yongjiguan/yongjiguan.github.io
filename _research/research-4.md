@@ -1,5 +1,5 @@
 ---
-title: "Nano-Wetting of Ionic Liquids"
+title: "Moving behaviour of Ionic Liquids under External Force"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: research
 ---
