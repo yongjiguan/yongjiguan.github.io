@@ -1,6 +1,6 @@
 ---
 title: "Nano-Wetting of Ionic Liquids"
-excerpt: "Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation<br/><img src='/images/Wetting.png' align="middle">"
+excerpt: "Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation<br/><img src='/images/Wetting.png'>"
 collection: research
 ---
 
