@@ -1,6 +1,6 @@
 ---
 title: "Nano-Wetting of Ionic Liquids"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Wetting.tif'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Wetting.png'>"
 collection: research
 ---
 
