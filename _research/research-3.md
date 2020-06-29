@@ -1,6 +1,6 @@
 ---
 title: "Vibrational Spectra of Ionic Liquids"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Vibrational-Spectrum.png'>"
+excerpt: "Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field<br/><img src='/images/Vibrational-Spectrum.png'>"
 collection: research
 ---
 
