@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links                  : # An array of links to social media profiles
 
 
 # Analytics
@@ -84,7 +84,7 @@ author:
   avatar           : "gyj.png"
   bio              : "Postdoc, Physical Chemistry, Department of Chemistry, Imperial College London"
   location         : "London, United Kingdom"
-  employer         : #"Imperial College London"
+  employer         : # "Imperial College London"
   email            : "yongji.guan@imperial.ac.uk"
   
   researchgate     : "https://www.researchgate.net/profile/Yongji_Guan"
@@ -92,7 +92,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-9210-3530"
   github           : "yongjiguan"
   publons          : "https://publons.com/researcher/1467632/yongji-guan/"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/"
   
   facebook         :
   linkedin         : "yongji-guan-09434b195"
@@ -296,7 +296,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Chongqing # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
