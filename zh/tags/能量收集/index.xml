@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>能量收集 on 关永吉个人学术主页</title>
+    <link>https://www.yongjiguan.com/zh/tags/%E8%83%BD%E9%87%8F%E6%94%B6%E9%9B%86/</link>
+    <description>Recent content in 能量收集 on 关永吉个人学术主页</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>zh-Hans</language>
+    <copyright>© 2020 Yongji Guan, All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 10 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://www.yongjiguan.com/zh/tags/%E8%83%BD%E9%87%8F%E6%94%B6%E9%9B%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>能量收集</title>
+      <link>https://www.yongjiguan.com/zh/project/energy-harvesting/</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yongjiguan.com/zh/project/energy-harvesting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
