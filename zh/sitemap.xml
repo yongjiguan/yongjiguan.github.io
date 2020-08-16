@@ -1473,20 +1473,6 @@
   </url>
   
   <url>
-    <loc>https://www.yongjiguan.com/zh/authors/yongji/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.yongjiguan.com/authors/yongji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.yongjiguan.com/zh/authors/yongji/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.yongjiguan.com/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
