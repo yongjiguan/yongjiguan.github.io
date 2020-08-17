@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>关永吉个人学术主页</title>
-    <link>https://www.yongjiguan.com/zh/authors/yongji/</link>
+    <link>https://www.yongjiguan.cn/zh/authors/yongji/</link>
     <description>Recent content on 关永吉个人学术主页</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>zh-Hans</language>
     <copyright>© 2020 Yongji Guan, All Rights Reserved.</copyright>
     
-	    <atom:link href="https://www.yongjiguan.com/zh/authors/yongji/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.yongjiguan.cn/zh/authors/yongji/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
