@@ -140,6 +140,32 @@ Tip 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tell
 
   
 
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#0086d1",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#0086d1"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "本网站使用cookies来确保您在本网站上获得最佳体验。",
+        "dismiss": "知道了!",
+        "link": "了解更多",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
+
 
   
 
