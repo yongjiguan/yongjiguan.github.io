@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on 关永吉个人学术主页</title>
+    <link>https://www.yongjiguan.com/zh/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on 关永吉个人学术主页</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>zh-Hans</language>
+    <copyright>Copyright © 2020 Yongji Guan All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 01 Oct 2018 16:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://www.yongjiguan.com/zh/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>流动诱导能量收集</title>
+      <link>https://www.yongjiguan.com/zh/talk/2018-apcil-6/</link>
+      <pubDate>Mon, 01 Oct 2018 16:00:00 +0000</pubDate>
+      
+      <guid>https://www.yongjiguan.com/zh/talk/2018-apcil-6/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>亲疏水性离子液体的纳米润湿能力</title>
+      <link>https://www.yongjiguan.com/zh/talk/2016-8th-icmsi/</link>
+      <pubDate>Mon, 26 Sep 2016 15:30:00 +0000</pubDate>
+      
+      <guid>https://www.yongjiguan.com/zh/talk/2016-8th-icmsi/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>关永吉个人学术主页</title>
+    <link>https://www.yongjiguan.com/zh/</link>
+    <description>Recent content on 关永吉个人学术主页</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>zh-Hans</language>
+    <copyright>Copyright © 2020 Yongji Guan All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://www.yongjiguan.com/zh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>https://www.yongjiguan.com/zh/publication/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yongjiguan.com/zh/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学术新闻</title>
+      <link>https://www.yongjiguan.com/zh/post/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yongjiguan.com/zh/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>https://www.yongjiguan.com/zh/courses/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.yongjiguan.com/zh/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.yongjiguan.com/zh/project/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yongjiguan.com/zh/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://www.yongjiguan.com/zh/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yongjiguan.com/zh/slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://www.yongjiguan.com/zh/talk/</link>
+      <pubDate>Mon, 01 Oct 2018 16:00:00 +0000</pubDate>
+      
+      <guid>https://www.yongjiguan.com/zh/talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
